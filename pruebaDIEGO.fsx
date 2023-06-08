@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <flexsim-tree version="4" treetype="model">
-<node f="10000043" dt="4"><name>model</name><data>
+<node f="43" dt="4"><name>model</name><data>
  <node f="40"><name></name></node>
- <node f="42" dt="2"><name>flh</name><data storagetype="hexadecimal">00737475204d6f6e204a756e2020352031383a34393a313920323032330a737475204d6f6e204a756e2020352031383a34393a313920323032330a737475204d6f6e204a756e2020352031383a34393a323820323032330a737475204d6f6e204a756e2020352031383a34393a323820323032330a737475204d6f6e204a756e2020352031383a34393a323820323032330a737475204d6f6e204a756e2020352031383a34393a323820323032330a737475204d6f6e204a756e2020352031383a34393a323820323032330a737475204d6f6e204a756e2020352031383a34393a323820323032330a737475204d6f6e204a756e2020352031383a34393a323920323032330a737475204d6f6e204a756e2020352031383a34393a323920323032330a737475204d6f6e204a756e2020352031383a34393a323920323032330a737475204d6f6e204a756e2020352031383a34393a323920323032330a737475204d6f6e204a756e2020352031383a34393a323920323032330a737475204d6f6e204a756e2020352031383a34393a323920323032330a737475204d6f6e204a756e2020352031383a35393a323920323032330a737475204d6f6e204a756e2020352031393a30393a323920323032330a737475204d6f6e204a756e2020352031393a31393a323920323032330a737475204d6f6e204a756e2020352031393a32393a323920323032330a737475204d6f6e204a756e2020352031393a33393a323920323032330a737475204d6f6e204a756e2020352032313a34363a313220323032330a737475204d6f6e204a756e2020352032313a34363a313320323032330a737475204d6f6e204a756e2020352032313a34363a313320323032330a737475204d6f6e204a756e2020352032313a34363a313320323032330a737475204d6f6e204a756e2020352032313a34363a313320323032330a737475204d6f6e204a756e2020352032313a34363a313320323032330a737475204d6f6e204a756e2020352032313a34363a313320323032330a737475204d6f6e204a756e2020352032313a34363a313320323032330a737475204d6f6e204a756e2020352032313a34363a313420323032330a737475204d6f6e204a756e2020352032313a34363a313420323032330a737475204d6f6e204a756e2020352032313a35363a313720323032330a73747520547565204a756e2020362030393a30303a333120323032330a73747520547565204a756e2020362030393a31303a333120323032330a73747520547565204a756e2020362030393a32303a333120323032330a73747520547565204a756e2020362030393a33303a333120323032330a73747520547565204a756e2020362030393a34303a333120323032330a73747520547565204a756e2020362030393a35303a333120323032330a73747520547565204a756e2020362031303a30303a333120323032330a73747520547565204a756e2020362031303a31303a333120323032330a73747520547565204a756e2020362031303a32303a333120323032330a73747520547565204a756e2020362031303a33303a333120323032330a73747520547565204a756e2020362031303a34303a333120323032330a73747520547565204a756e2020362031303a35303a333120323032330a73747520547565204a756e2020362031313a30303a333120323032330a73747520547565204a756e2020362031313a31303a333120323032330a73747520547565204a756e2020362031313a32303a333120323032330a73747520547565204a756e2020362031313a33303a333120323032330a73747520547565204a756e2020362031313a34303a333120323032330a73747520547565204a756e2020362031313a35303a333120323032330a73747520547565204a756e2020362031323a30303a333120323032330a73747520547565204a756e2020362031323a31303a333120323032330a73747520547565204a756e2020362031323a32303a333120323032330a73747520547565204a756e2020362031323a33303a333120323032330a73747520547565204a756e2020362031323a34303a333120323032330a73747520547565204a756e2020362031323a35303a333120323032330a73747520547565204a756e2020362031333a30303a333120323032330a73747520547565204a756e2020362031333a31303a333120323032330a73747520547565204a756e2020362031333a32303a333120323032330a73747520547565204a756e2020362031333a33303a333120323032330a73747520547565204a756e2020362031333a34303a333120323032330a73747520547565204a756e2020362031333a35303a333120323032330a73747520547565204a756e2020362031343a30303a333120323032330a73747520547565204a756e2020362031343a31303a333120323032330a73747520547565204a756e2020362032303a34303a333120323032330a73747520547565204a756e2020362032303a35303a333120323032330a73747520547565204a756e2020362032313a30303a333420323032330a73747520547565204a756e2020362032313a31303a333420323032330a73747520547565204a756e2020362032313a32303a333420323032330a73747520547565204a756e2020362032313a33303a333420323032330a73747520547565204a756e2020362032313a34303a333420323032330a73747520547565204a756e2020362032323a30303a333420323032330a73747520547565204a756e2020362032323a31303a333420323032330a73747520547565204a756e2020362032323a32303a333420323032330a73747520547565204a756e2020362032323a32383a313020323032330a73747520547565204a756e2020362032323a32383a313020323032330a73747520547565204a756e2020362032323a32383a313120323032330a73747520547565204a756e2020362032323a32383a313120323032330a73747520547565204a756e2020362032323a32383a313120323032330a73747520547565204a756e2020362032323a32383a313120323032330a73747520547565204a756e2020362032323a32383a313120323032330a73747520547565204a756e2020362032323a32383a313220323032330a73747520547565204a756e2020362032323a32383a313220323032330a73747520547565204a756e2020362032323a32383a313220323032330a73747520547565204a756e2020362032323a32383a313220323032330a73747520547565204a756e2020362032323a32383a313220323032330a73747520547565204a756e2020362032323a32383a313420323032330a73747520546875204a756e2020382031323a35393a333920323032330a73747520546875204a756e2020382031333a30393a333920323032330a73747520546875204a756e2020382031333a31393a333920323032330a73747520546875204a756e2020382031333a32393a333920323032330a73747520546875204a756e2020382031333a34393a333920323032330a73747520546875204a756e2020382031333a35353a333920323032330a73747520546875204a756e2020382031333a35353a343620323032330a73747520546875204a756e2020382031343a30353a343620323032330a73747520546875204a756e2020382031383a33353a323020323032330a73747520546875204a756e2020382031383a33353a323120323032330a73747520546875204a756e2020382031383a33353a323520323032330a73747520546875204a756e2020382031383a33353a343420323032330a73747520546875204a756e2020382031383a33353a343420323032330a73747520546875204a756e2020382031383a33353a343420323032330a00</data></node>
+ <node f="42" dt="2"><name>flh</name><data storagetype="hexadecimal">00737475204d6f6e204a756e2020352031383a34393a323820323032330a737475204d6f6e204a756e2020352031383a34393a323820323032330a737475204d6f6e204a756e2020352031383a34393a323820323032330a737475204d6f6e204a756e2020352031383a34393a323920323032330a737475204d6f6e204a756e2020352031383a34393a323920323032330a737475204d6f6e204a756e2020352031383a34393a323920323032330a737475204d6f6e204a756e2020352031383a34393a323920323032330a737475204d6f6e204a756e2020352031383a34393a323920323032330a737475204d6f6e204a756e2020352031383a34393a323920323032330a737475204d6f6e204a756e2020352031383a35393a323920323032330a737475204d6f6e204a756e2020352031393a30393a323920323032330a737475204d6f6e204a756e2020352031393a31393a323920323032330a737475204d6f6e204a756e2020352031393a32393a323920323032330a737475204d6f6e204a756e2020352031393a33393a323920323032330a737475204d6f6e204a756e2020352032313a34363a313220323032330a737475204d6f6e204a756e2020352032313a34363a313320323032330a737475204d6f6e204a756e2020352032313a34363a313320323032330a737475204d6f6e204a756e2020352032313a34363a313320323032330a737475204d6f6e204a756e2020352032313a34363a313320323032330a737475204d6f6e204a756e2020352032313a34363a313320323032330a737475204d6f6e204a756e2020352032313a34363a313320323032330a737475204d6f6e204a756e2020352032313a34363a313320323032330a737475204d6f6e204a756e2020352032313a34363a313420323032330a737475204d6f6e204a756e2020352032313a34363a313420323032330a737475204d6f6e204a756e2020352032313a35363a313720323032330a73747520547565204a756e2020362030393a30303a333120323032330a73747520547565204a756e2020362030393a31303a333120323032330a73747520547565204a756e2020362030393a32303a333120323032330a73747520547565204a756e2020362030393a33303a333120323032330a73747520547565204a756e2020362030393a34303a333120323032330a73747520547565204a756e2020362030393a35303a333120323032330a73747520547565204a756e2020362031303a30303a333120323032330a73747520547565204a756e2020362031303a31303a333120323032330a73747520547565204a756e2020362031303a32303a333120323032330a73747520547565204a756e2020362031303a33303a333120323032330a73747520547565204a756e2020362031303a34303a333120323032330a73747520547565204a756e2020362031303a35303a333120323032330a73747520547565204a756e2020362031313a30303a333120323032330a73747520547565204a756e2020362031313a31303a333120323032330a73747520547565204a756e2020362031313a32303a333120323032330a73747520547565204a756e2020362031313a33303a333120323032330a73747520547565204a756e2020362031313a34303a333120323032330a73747520547565204a756e2020362031313a35303a333120323032330a73747520547565204a756e2020362031323a30303a333120323032330a73747520547565204a756e2020362031323a31303a333120323032330a73747520547565204a756e2020362031323a32303a333120323032330a73747520547565204a756e2020362031323a33303a333120323032330a73747520547565204a756e2020362031323a34303a333120323032330a73747520547565204a756e2020362031323a35303a333120323032330a73747520547565204a756e2020362031333a30303a333120323032330a73747520547565204a756e2020362031333a31303a333120323032330a73747520547565204a756e2020362031333a32303a333120323032330a73747520547565204a756e2020362031333a33303a333120323032330a73747520547565204a756e2020362031333a34303a333120323032330a73747520547565204a756e2020362031333a35303a333120323032330a73747520547565204a756e2020362031343a30303a333120323032330a73747520547565204a756e2020362031343a31303a333120323032330a73747520547565204a756e2020362032303a34303a333120323032330a73747520547565204a756e2020362032303a35303a333120323032330a73747520547565204a756e2020362032313a30303a333420323032330a73747520547565204a756e2020362032313a31303a333420323032330a73747520547565204a756e2020362032313a32303a333420323032330a73747520547565204a756e2020362032313a33303a333420323032330a73747520547565204a756e2020362032313a34303a333420323032330a73747520547565204a756e2020362032323a30303a333420323032330a73747520547565204a756e2020362032323a31303a333420323032330a73747520547565204a756e2020362032323a32303a333420323032330a73747520547565204a756e2020362032323a32383a313020323032330a73747520547565204a756e2020362032323a32383a313020323032330a73747520547565204a756e2020362032323a32383a313120323032330a73747520547565204a756e2020362032323a32383a313120323032330a73747520547565204a756e2020362032323a32383a313120323032330a73747520547565204a756e2020362032323a32383a313120323032330a73747520547565204a756e2020362032323a32383a313120323032330a73747520547565204a756e2020362032323a32383a313220323032330a73747520547565204a756e2020362032323a32383a313220323032330a73747520547565204a756e2020362032323a32383a313220323032330a73747520547565204a756e2020362032323a32383a313220323032330a73747520547565204a756e2020362032323a32383a313220323032330a73747520547565204a756e2020362032323a32383a313420323032330a73747520546875204a756e2020382031323a35393a333920323032330a73747520546875204a756e2020382031333a30393a333920323032330a73747520546875204a756e2020382031333a31393a333920323032330a73747520546875204a756e2020382031333a32393a333920323032330a73747520546875204a756e2020382031333a34393a333920323032330a73747520546875204a756e2020382031333a35353a333920323032330a73747520546875204a756e2020382031333a35353a343620323032330a73747520546875204a756e2020382031343a30353a343620323032330a73747520546875204a756e2020382031383a33353a323020323032330a73747520546875204a756e2020382031383a33353a323120323032330a73747520546875204a756e2020382031383a33353a323520323032330a73747520546875204a756e2020382031383a33353a343420323032330a73747520546875204a756e2020382031383a33353a343420323032330a73747520546875204a756e2020382031383a33353a343420323032330a637573746f6d20546875204a756e2020382031383a34323a313920323032330a637573746f6d20546875204a756e2020382031383a34323a323820323032330a637573746f6d20546875204a756e2020382031383a34323a323920323032330a637573746f6d20546875204a756e2020382031383a34323a323920323032330a637573746f6d20546875204a756e2020382031383a34323a333920323032330a00</data></node>
  <node f="42" dt="1"><name>packedmedia</name><data>000000003ff00000</data></node>
 </data>
  <node f="40"><name></name></node>
@@ -8248,6 +8248,7 @@ treenode ts = param(1);
      <node f="40"><name></name></node>
      <node f="10000042" dt="3"><name>_1</name><data><coupling>/Rack1&gt;variables/system/1</coupling></data></node>
      <node f="10000042" dt="3"><name>_2</name><data><coupling>/Rack2&gt;variables/system/1</coupling></data></node>
+     <node f="10000042" dt="3"><name>_3</name><data><coupling>/Rack3&gt;variables/system/1</coupling></data></node>
     </node>
     <node f="42"><name>slotLabels</name></node>
     <node f="42"><name>itemLabels</name></node>
@@ -14875,24 +14876,24 @@ return 1;
         <node f="810000042" dt="3"><name>Displays</name><data><coupling>/Tools/ProcessFlow/ProcessFlow/Displays&gt;stats/instances/ProcessFlow</coupling></data></node>
         <node f="810000042" dt="3"><name>Create Object</name><data><coupling>/Tools/ProcessFlow/ProcessFlow/Create Object&gt;stats/instances/ProcessFlow</coupling></data></node>
         <node f="810000042" dt="3"><name>Acquire</name><data><coupling>/Tools/ProcessFlow/ProcessFlow/Acquire&gt;stats/instances/ProcessFlow</coupling></data></node>
-        <node f="810000042" dt="3"><name>Queue vacia ?</name><data><coupling>/Tools/ProcessFlow/ProcessFlow/Queue vacia ?&gt;stats/instances/ProcessFlow</coupling></data></node>
-        <node f="810000042" dt="3"><name>Load</name><data><coupling>/Tools/ProcessFlow/ProcessFlow/Load~2&gt;stats/instances/ProcessFlow</coupling></data></node>
         <node f="810000042" dt="3"><name>Travel</name><data><coupling>/Tools/ProcessFlow/ProcessFlow/Travel&gt;stats/instances/ProcessFlow</coupling></data></node>
         <node f="810000042" dt="3"><name>Unload</name><data><coupling>/Tools/ProcessFlow/ProcessFlow/Unload&gt;stats/instances/ProcessFlow</coupling></data></node>
         <node f="810000042" dt="3"><name>Travel</name><data><coupling>/Tools/ProcessFlow/ProcessFlow/Travel~2&gt;stats/instances/ProcessFlow</coupling></data></node>
-        <node f="810000042" dt="3"><name>Resource</name><data><coupling>/Tools/ProcessFlow/ProcessFlow/Resource&gt;stats/instances/ProcessFlow</coupling></data></node>
         <node f="810000042" dt="3"><name>Travel</name><data><coupling>/Tools/ProcessFlow/ProcessFlow/Travel~3&gt;stats/instances/ProcessFlow</coupling></data></node>
         <node f="810000042" dt="3"><name>Unload</name><data><coupling>/Tools/ProcessFlow/ProcessFlow/Unload~2&gt;stats/instances/ProcessFlow</coupling></data></node>
+        <node f="810000042" dt="3"><name>Release</name><data><coupling>/Tools/ProcessFlow/ProcessFlow/Release&gt;stats/instances/ProcessFlow</coupling></data></node>
         <node f="810000042" dt="3"><name>Travel</name><data><coupling>/Tools/ProcessFlow/ProcessFlow/Travel~4&gt;stats/instances/ProcessFlow</coupling></data></node>
         <node f="810000042" dt="3"><name>Source</name><data><coupling>/Tools/ProcessFlow/ProcessFlow/Source&gt;stats/instances/ProcessFlow</coupling></data></node>
         <node f="810000042" dt="3"><name>Load</name><data><coupling>/Tools/ProcessFlow/ProcessFlow/Load&gt;stats/instances/ProcessFlow</coupling></data></node>
+        <node f="810000042" dt="3"><name>Queue vacia ?</name><data><coupling>/Tools/ProcessFlow/ProcessFlow/Queue vacia ?&gt;stats/instances/ProcessFlow</coupling></data></node>
+        <node f="810000042" dt="3"><name>Load</name><data><coupling>/Tools/ProcessFlow/ProcessFlow/Load~2&gt;stats/instances/ProcessFlow</coupling></data></node>
         <node f="810000042" dt="3"><name>Queue vacia ?</name><data><coupling>/Tools/ProcessFlow/ProcessFlow/Queue vacia ?~2&gt;stats/instances/ProcessFlow</coupling></data></node>
-        <node f="810000042" dt="3"><name>Release</name><data><coupling>/Tools/ProcessFlow/ProcessFlow/Release~2&gt;stats/instances/ProcessFlow</coupling></data></node>
         <node f="810000042" dt="3"><name>Travel</name><data><coupling>/Tools/ProcessFlow/ProcessFlow/Travel~5&gt;stats/instances/ProcessFlow</coupling></data></node>
-        <node f="810000042" dt="3"><name>Release</name><data><coupling>/Tools/ProcessFlow/ProcessFlow/Release&gt;stats/instances/ProcessFlow</coupling></data></node>
+        <node f="810000042" dt="3"><name>Resource</name><data><coupling>/Tools/ProcessFlow/ProcessFlow/Resource&gt;stats/instances/ProcessFlow</coupling></data></node>
         <node f="810000042" dt="3"><name>Create Object</name><data><coupling>/Tools/ProcessFlow/ProcessFlow/Create Object~2&gt;stats/instances/ProcessFlow</coupling></data></node>
         <node f="810000042" dt="3"><name>Acquire</name><data><coupling>/Tools/ProcessFlow/ProcessFlow/Acquire~2&gt;stats/instances/ProcessFlow</coupling></data></node>
         <node f="810000042" dt="3"><name>Source</name><data><coupling>/Tools/ProcessFlow/ProcessFlow/Source~2&gt;stats/instances/ProcessFlow</coupling></data></node>
+        <node f="810000042" dt="3"><name>Release</name><data><coupling>/Tools/ProcessFlow/ProcessFlow/Release~2&gt;stats/instances/ProcessFlow</coupling></data></node>
         <node f="810000042" dt="3"><name>Wait for Event</name><data><coupling>/Tools/ProcessFlow/ProcessFlow/Wait for Event&gt;stats/instances/ProcessFlow</coupling></data></node>
        </node>
        <node f="42" dt="1"><name>magnification</name><data>e2e864833fec7e7f</data></node>
@@ -15198,13 +15199,13 @@ return 1;
      <node f="42" dt="1"><name>spatialx</name><data>0000000000000000</data></node>
      <node f="42" dt="1"><name>spatialy</name><data>0000000000000000</data></node>
      <node f="42" dt="1"><name>spatialz</name><data>0000000000000000</data></node>
-     <node f="42" dt="1"><name>spatialsx</name><data>0000000040815800</data>
+     <node f="42" dt="1"><name>spatialsx</name><data>0000000040759000</data>
       <node f="40"><name></name></node>
       <node f="42" dt="1"><name>min</name><data>0000000040590000</data></node>
       <node f="42"><name>fixed</name></node>
-      <node f="42" dt="1"><name>desired</name><data>0000000040815800</data></node>
+      <node f="42" dt="1"><name>desired</name><data>0000000040759000</data></node>
      </node>
-     <node f="42" dt="1"><name>spatialsy</name><data>0000000040868000</data></node>
+     <node f="42" dt="1"><name>spatialsy</name><data>0000000040798000</data></node>
      <node f="42" dt="1"><name>spatialsz</name><data>000000003ff00000</data></node>
      <node f="42" dt="1"><name>spatialrx</name><data>0000000000000000</data></node>
      <node f="42" dt="1"><name>spatialry</name><data>0000000000000000</data></node>
@@ -16611,7 +16612,7 @@ tokenToRelease.release(connector);
       <node f="40"><name></name></node>
       <node f="42"><name>instances</name>
        <node f="40"><name></name></node>
-       <node f="10000042" dt="3"><name>ProcessFlow</name><data><coupling>/Tools/ProcessFlow/ProcessFlow&gt;stats/instances/ProcessFlow/blockInstances/Release~2</coupling></data>
+       <node f="10000042" dt="3"><name>ProcessFlow</name><data><coupling>/Tools/ProcessFlow/ProcessFlow&gt;stats/instances/ProcessFlow/blockInstances/Release</coupling></data>
         <node f="40"><name></name></node>
         <node f="42" dt="7"><name>tokens</name><data/>
          <node f="40"><name></name></node>
@@ -17086,7 +17087,7 @@ return /**/exponential(0, 10, getstream(activity))/**direct*/;</data></node>
       <node f="40"><name></name></node>
       <node f="42"><name>instances</name>
        <node f="40"><name></name></node>
-       <node f="10000042" dt="3"><name>ProcessFlow</name><data><coupling>/Tools/ProcessFlow/ProcessFlow&gt;stats/instances/ProcessFlow/blockInstances/Load~2</coupling></data>
+       <node f="10000042" dt="3"><name>ProcessFlow</name><data><coupling>/Tools/ProcessFlow/ProcessFlow&gt;stats/instances/ProcessFlow/blockInstances/Load</coupling></data>
         <node f="40"><name></name></node>
         <node f="42" dt="7"><name>tokens</name><data/>
          <node f="40"><name></name></node>
@@ -17452,7 +17453,7 @@ return /** \nIf Condition is false: *//***tag:false*//**/2/**/;
       <node f="40"><name></name></node>
       <node f="42"><name>instances</name>
        <node f="40"><name></name></node>
-       <node f="10000042" dt="3"><name>ProcessFlow</name><data><coupling>/Tools/ProcessFlow/ProcessFlow&gt;stats/instances/ProcessFlow/blockInstances/Load</coupling></data>
+       <node f="10000042" dt="3"><name>ProcessFlow</name><data><coupling>/Tools/ProcessFlow/ProcessFlow&gt;stats/instances/ProcessFlow/blockInstances/Load~2</coupling></data>
         <node f="40"><name></name></node>
         <node f="42" dt="7"><name>tokens</name><data/>
          <node f="40"><name></name></node>
@@ -18246,8 +18247,7 @@ return /** \nIf Condition is false: *//***tag:false*//**/2/**/;
          <node f="42" dt="3"><name></name><data><coupling>/Transporter2</coupling></data></node>
         </node>
         <node f="42"><name>acquired</name></node>
-        <node f="42"><name>backorderListeners</name>
-         <node f="40"><name></name></node></node>
+        <node f="42"><name>backorderListeners</name></node>
         <node f="42" dt="7"><name>input</name><data/>
          <node f="40"><name></name></node>
          <node f="42" dt="2"><name>sdt::attributetree</name><data>TrackedVariable</data>
@@ -18430,7 +18430,7 @@ return /** \nIf Condition is false: *//***tag:false*//**/2/**/;
            <node f="40"><name></name></node>
            <node f="10000042" dt="7"><name>sqlParse</name><data/>
             <node f="40"><name></name></node>
-            <node f="10000042" dt="2"><name>orderBy</name><data storagetype="hexadecimal">040000001801000000000000000000006d6500226c6f63222074797065002256030000003e0100003f010000000000006d206e616d650022666163746f727322020000000301100001000000ffffffff70cb23303e02000087cb23303e020000010000001601000015fcff7f17fcff7f000000000000000070cb23303e020000</data></node>
+            <node f="10000042" dt="2"><name>orderBy</name><data storagetype="hexadecimal">040000001801000000000000000000006d6500226c6f63222074797065002256030000003e0100003f010000000000006d206e616d650022666163746f727322020000000301100001000000ffffffff100124303e020000270124303e020000010000001601000015fcff7f17fcff7f0000000000000000100124303e020000</data></node>
             <node f="42"><name>selectedRowsNode</name></node>
             <node f="42" dt="2"><name>sdt::attributetree</name><data>SqlQuery</data>
              <node f="40"><name></name></node>
@@ -19248,7 +19248,7 @@ return /**/exponential(0, 10, getstream(activity))/**direct*/;</data></node>
       <node f="40"><name></name></node>
       <node f="42"><name>instances</name>
        <node f="40"><name></name></node>
-       <node f="10000042" dt="3"><name>ProcessFlow</name><data><coupling>/Tools/ProcessFlow/ProcessFlow&gt;stats/instances/ProcessFlow/blockInstances/Release</coupling></data>
+       <node f="10000042" dt="3"><name>ProcessFlow</name><data><coupling>/Tools/ProcessFlow/ProcessFlow&gt;stats/instances/ProcessFlow/blockInstances/Release~2</coupling></data>
         <node f="40"><name></name></node>
         <node f="42" dt="7"><name>tokens</name><data/>
          <node f="40"><name></name></node>
@@ -20421,13 +20421,13 @@ tokenToRelease.release(connector);
      <node f="42" dt="1"><name>spatialx</name><data>0000000000000000</data></node>
      <node f="42" dt="1"><name>spatialy</name><data>0000000000000000</data></node>
      <node f="42" dt="1"><name>spatialz</name><data>0000000000000000</data></node>
-     <node f="42" dt="1"><name>spatialsx</name><data>0000000040815800</data>
+     <node f="42" dt="1"><name>spatialsx</name><data>0000000040759000</data>
       <node f="40"><name></name></node>
       <node f="42" dt="1"><name>min</name><data>0000000040590000</data></node>
       <node f="42"><name>fixed</name></node>
-      <node f="42" dt="1"><name>desired</name><data>0000000040815800</data></node>
+      <node f="42" dt="1"><name>desired</name><data>0000000040759000</data></node>
      </node>
-     <node f="42" dt="1"><name>spatialsy</name><data>0000000040868000</data></node>
+     <node f="42" dt="1"><name>spatialsy</name><data>0000000040798000</data></node>
      <node f="42" dt="1"><name>spatialsz</name><data>000000003ff00000</data></node>
      <node f="42" dt="1"><name>spatialrx</name><data>0000000000000000</data></node>
      <node f="42" dt="1"><name>spatialry</name><data>0000000000000000</data></node>
@@ -22308,8 +22308,8 @@ return /** \nIf Condition is false: *//***tag:false*//**/2/**/;
     <node f="42" dt="4"><name>QuickerProperties965264120</name><data>
      <node f="40"><name></name></node>
      <node f="42" dt="2"><name>saver</name><data>QuickerProperties</data></node>
-     <node f="42" dt="1"><name>spatialx</name><data>0000000040931800</data></node>
-     <node f="42" dt="1"><name>spatialy</name><data>000000004083b000</data></node>
+     <node f="42" dt="1"><name>spatialx</name><data>000000004086f000</data></node>
+     <node f="42" dt="1"><name>spatialy</name><data>0000000040753000</data></node>
      <node f="42" dt="1"><name>spatialsx</name><data>0000000040737000</data></node>
      <node f="42" dt="1"><name>spatialsy</name><data>00000000406ce000</data>
       <node f="40"><name></name></node></node>
@@ -22325,8 +22325,8 @@ return /** \nIf Condition is false: *//***tag:false*//**/2/**/;
      <node f="42" dt="2"><name>saver</name><data>Splitter</data></node>
      <node f="42" dt="1"><name>spatialx</name><data>0000000000000000</data></node>
      <node f="42" dt="1"><name>spatialy</name><data>0000000000000000</data></node>
-     <node f="42" dt="1"><name>spatialsx</name><data>00000000409e0000</data></node>
-     <node f="42" dt="1"><name>spatialsy</name><data>00000000408ce000</data>
+     <node f="42" dt="1"><name>spatialsx</name><data>0000000040955800</data></node>
+     <node f="42" dt="1"><name>spatialsy</name><data>0000000040832000</data>
       <node f="40"><name></name></node>
       <node f="42" dt="1"><name>min</name><data>0000000040390000</data></node>
       <node f="42" dt="1"><name>desired</name><data>00000000408b1800</data></node>
@@ -22337,9 +22337,9 @@ return /** \nIf Condition is false: *//***tag:false*//**/2/**/;
      <node f="42"><name>splitterx</name></node>
     </data>
      <node f="40"><name></name></node>
-     <node f="42" dt="4"><name>SplitterYPane</name><data>
+     <node f="42" dt="4"><name>ToolTabPane</name><data>
       <node f="40"><name></name></node>
-      <node f="42" dt="2"><name>saver</name><data>Splitter</data></node>
+      <node f="42" dt="2"><name>saver</name><data>ToolTabPane</data></node>
       <node f="42" dt="1"><name>spatialx</name><data>0000000000000000</data></node>
       <node f="42" dt="1"><name>spatialy</name><data>0000000000000000</data></node>
       <node f="42" dt="1"><name>spatialsx</name><data>000000004067c000</data>
@@ -22348,336 +22348,104 @@ return /** \nIf Condition is false: *//***tag:false*//**/2/**/;
        <node f="42" dt="1"><name>desired</name><data>000000004067c000</data></node>
        <node f="42" dt="1"><name>fixed</name><data>0000000040000000</data></node>
       </node>
-      <node f="42" dt="1"><name>spatialsy</name><data>00000000408ce000</data>
-       <node f="40"><name></name></node></node>
+      <node f="42" dt="1"><name>spatialsy</name><data>0000000040832000</data>
+       <node f="40"><name></name></node>
+       <node f="42" dt="1"><name>min</name><data>0000000040390000</data></node>
+       <node f="42" dt="1"><name>desired</name><data>0000000040885800</data></node>
+      </node>
       <node f="42" dt="1"><name>alignbottommargin</name><data>0000000000000000</data></node>
       <node f="42"><name>variables</name></node>
-      <node f="42"><name>splittery</name></node>
+      <node f="42" dt="2"><name>viewfocus</name><data>MAIN:/1</data></node>
+      <node f="42" dt="2"><name>objectfocus</name><data>MAIN:/project/model</data></node>
+      <node f="42" dt="1"><name>tabwindow</name><data>0000000040598000</data>
+       <node f="40"><name></name></node>
+       <node f="42" dt="2"><name>OnDropWindow</name><data>if (objectexists(i)) applicationcommand("dockwindow", i, c, eventcode);
+else return applicationcommand("undockwindow", c, 0, dropx(), dropy());</data></node>
+       <node f="42"><name>targets</name>
+        <node f="40"><name></name></node>
+        <node f="42" dt="1"><name>paneleft</name><data>0000000040598000</data></node>
+        <node f="42" dt="1"><name>paneright</name><data>0000000040598000</data></node>
+        <node f="42" dt="1"><name>panetop</name><data>0000000040598000</data></node>
+        <node f="42" dt="1"><name>panebottom</name><data>0000000040598000</data></node>
+       </node>
+      </node>
+      <node f="42" dt="2"><name>windowtitle</name><data>Library</data></node>
+      <node f="42"><name>style</name>
+       <node f="40"><name></name></node>
+       <node f="42"><name>WS_CAPTION</name></node>
+       <node f="42"><name>WS_SYSMENU</name></node>
+       <node f="42" dt="1"><name>WS_CLIENTEDGE</name><data>0000000000000000</data></node>
+      </node>
+      <node f="42"><name>exstyle</name>
+       <node f="40"><name></name></node>
+       <node f="42"><name>WS_EX_TOOLWINDOW</name></node>
+       <node f="42" dt="1"><name>WS_EX_WINDOWEDGE</name><data>0000000000000000</data></node>
+      </node>
      </data>
       <node f="40"><name></name></node>
-      <node f="42" dt="4"><name>ToolTabPane</name><data>
+      <node f="42" dt="4"><name>LibraryIconGrid</name><data>
        <node f="40"><name></name></node>
-       <node f="42" dt="2"><name>saver</name><data>ToolTabPane</data></node>
-       <node f="42" dt="1"><name>spatialx</name><data>0000000000000000</data></node>
-       <node f="42" dt="1"><name>spatialy</name><data>0000000000000000</data></node>
-       <node f="42" dt="1"><name>spatialsx</name><data>000000004067c000</data>
+       <node f="42" dt="2"><name>saver</name><data>LibraryIconGrid</data></node>
+       <node f="42" dt="1"><name>spatialx</name><data>000000003ff00000</data></node>
+       <node f="42" dt="1"><name>spatialy</name><data>0000000040370000</data></node>
+       <node f="42" dt="1"><name>spatialsx</name><data>0000000040678000</data>
         <node f="40"><name></name></node>
         <node f="42" dt="1"><name>min</name><data>0000000040604000</data></node>
-        <node f="42" dt="1"><name>desired</name><data>000000004067c000</data></node>
         <node f="42" dt="1"><name>fixed</name><data>0000000040000000</data></node>
+        <node f="42" dt="1"><name>desired</name><data>000000004067c000</data></node>
        </node>
-       <node f="42" dt="1"><name>spatialsy</name><data>0000000040885800</data>
+       <node f="42" dt="1"><name>spatialsy</name><data>000000004081b800</data>
         <node f="40"><name></name></node>
-        <node f="42" dt="1"><name>min</name><data>0000000040390000</data></node>
-        <node f="42" dt="1"><name>desired</name><data>0000000040885800</data></node>
+        <node f="42" dt="1"><name>desired</name><data>00000000408b1800</data></node>
        </node>
+       <node f="42" dt="1"><name>alignbottommargin</name><data>0000000000000000</data></node>
        <node f="42" dt="1"><name>alignrightmargin</name><data>0000000000000000</data></node>
        <node f="42"><name>variables</name></node>
-       <node f="42" dt="2"><name>viewfocus</name><data>MAIN:/1</data></node>
-       <node f="42" dt="2"><name>objectfocus</name><data>MAIN:/project/model</data></node>
-       <node f="42" dt="1"><name>tabwindow</name><data>0000000040598000</data>
+       <node f="42" dt="2"><name>viewfocus</name><data>MAIN:/project/library</data></node>
+       <node f="42" dt="1"><name>tabwindow</name><data>0000000000000000</data>
         <node f="40"><name></name></node>
         <node f="42" dt="2"><name>OnDropWindow</name><data>if (objectexists(i)) applicationcommand("dockwindow", i, c, eventcode);
 else return applicationcommand("undockwindow", c, 0, dropx(), dropy());</data></node>
-        <node f="42"><name>targets</name>
-         <node f="40"><name></name></node>
-         <node f="42" dt="1"><name>paneleft</name><data>0000000040598000</data></node>
-         <node f="42" dt="1"><name>paneright</name><data>0000000040598000</data></node>
-         <node f="42" dt="1"><name>panetop</name><data>0000000040598000</data></node>
-         <node f="42" dt="1"><name>panebottom</name><data>0000000040598000</data></node>
-        </node>
        </node>
-       <node f="42" dt="2"><name>windowtitle</name><data>Library</data></node>
-       <node f="42"><name>style</name>
-        <node f="40"><name></name></node>
-        <node f="42"><name>WS_CAPTION</name></node>
-        <node f="42"><name>WS_SYSMENU</name></node>
-        <node f="42" dt="1"><name>WS_CLIENTEDGE</name><data>0000000000000000</data></node>
-       </node>
-       <node f="42"><name>exstyle</name>
-        <node f="40"><name></name></node>
-        <node f="42"><name>WS_EX_TOOLWINDOW</name></node>
-        <node f="42" dt="1"><name>WS_EX_WINDOWEDGE</name><data>0000000000000000</data></node>
-       </node>
-      </data>
+       <node f="42" dt="2"><name>bitmap</name><data>buttons\view_library.ico</data></node>
+      </data></node>
+      <node f="42" dt="4"><name>Toolbox</name><data>
        <node f="40"><name></name></node>
-       <node f="42" dt="4"><name>LibraryIconGrid</name><data>
-        <node f="40"><name></name></node>
-        <node f="42" dt="2"><name>saver</name><data>LibraryIconGrid</data></node>
-        <node f="42" dt="1"><name>spatialx</name><data>000000003ff00000</data></node>
-        <node f="42" dt="1"><name>spatialy</name><data>0000000040370000</data></node>
-        <node f="42" dt="1"><name>spatialsx</name><data>0000000040678000</data>
-         <node f="40"><name></name></node>
-         <node f="42" dt="1"><name>min</name><data>0000000040604000</data></node>
-         <node f="42" dt="1"><name>fixed</name><data>0000000040000000</data></node>
-         <node f="42" dt="1"><name>desired</name><data>000000004067c000</data></node>
-        </node>
-        <node f="42" dt="1"><name>spatialsy</name><data>000000004086f000</data>
-         <node f="40"><name></name></node>
-         <node f="42" dt="1"><name>desired</name><data>00000000408b1800</data></node>
-        </node>
-        <node f="42" dt="1"><name>alignbottommargin</name><data>0000000000000000</data></node>
-        <node f="42" dt="1"><name>alignrightmargin</name><data>0000000000000000</data></node>
-        <node f="42"><name>variables</name></node>
-        <node f="42" dt="2"><name>viewfocus</name><data>MAIN:/project/library</data></node>
-        <node f="42" dt="1"><name>tabwindow</name><data>0000000000000000</data>
-         <node f="40"><name></name></node>
-         <node f="42" dt="2"><name>OnDropWindow</name><data>if (objectexists(i)) applicationcommand("dockwindow", i, c, eventcode);
-else return applicationcommand("undockwindow", c, 0, dropx(), dropy());</data></node>
-        </node>
-        <node f="42" dt="2"><name>bitmap</name><data>buttons\view_library.ico</data></node>
-       </data></node>
-       <node f="42" dt="4"><name>Toolbox</name><data>
-        <node f="40"><name></name></node>
-        <node f="42" dt="2"><name>saver</name><data>Toolbox</data></node>
-        <node f="42" dt="1"><name>spatialx</name><data>000000003ff00000</data></node>
-        <node f="42" dt="1"><name>spatialy</name><data>0000000040370000</data></node>
-        <node f="42" dt="1"><name>spatialsx</name><data>0000000040678000</data>
-         <node f="40"><name></name></node>
-         <node f="42" dt="1"><name>min</name><data>0000000040604000</data></node>
-         <node f="42" dt="1"><name>fixed</name><data>0000000040000000</data></node>
-         <node f="42" dt="1"><name>desired</name><data>0000000040694000</data></node>
-        </node>
-        <node f="42" dt="1"><name>spatialsy</name><data>000000004086f000</data>
-         <node f="40"><name></name></node>
-         <node f="42" dt="1"><name>desired</name><data>00000000408b1800</data></node>
-        </node>
-        <node f="42" dt="1"><name>alignbottommargin</name><data>0000000000000000</data></node>
-        <node f="42" dt="1"><name>alignrightmargin</name><data>0000000000000000</data></node>
-        <node f="42"><name>variables</name></node>
-        <node f="42" dt="1"><name>tabwindow</name><data>0000000000000000</data>
-         <node f="40"><name></name></node>
-         <node f="42" dt="2"><name>OnDropWindow</name><data>if (objectexists(i)) applicationcommand("dockwindow", i, c, eventcode);
-else return applicationcommand("undockwindow", c, 0, dropx(), dropy());</data></node>
-        </node>
-        <node f="42" dt="2"><name>bitmap</name><data>buttons\view_tools.ico</data></node>
-       </data></node>
-      </node>
-      <node f="42" dt="4"><name>ToolPane</name><data>
-       <node f="40"><name></name></node>
-       <node f="42" dt="2"><name>saver</name><data>ToolPane</data></node>
-       <node f="42" dt="1"><name>spatialx</name><data>0000000000000000</data></node>
-       <node f="42" dt="1"><name>spatialy</name><data>0000000040887800</data></node>
-       <node f="42" dt="1"><name>spatialsx</name><data>000000004067c000</data>
+       <node f="42" dt="2"><name>saver</name><data>Toolbox</data></node>
+       <node f="42" dt="1"><name>spatialx</name><data>000000003ff00000</data></node>
+       <node f="42" dt="1"><name>spatialy</name><data>0000000040370000</data></node>
+       <node f="42" dt="1"><name>spatialsx</name><data>0000000040678000</data>
         <node f="40"><name></name></node>
         <node f="42" dt="1"><name>min</name><data>0000000040604000</data></node>
         <node f="42" dt="1"><name>fixed</name><data>0000000040000000</data></node>
-        <node f="42" dt="1"><name>desired</name><data>0000000040640000</data></node>
+        <node f="42" dt="1"><name>desired</name><data>0000000040694000</data></node>
        </node>
-       <node f="42" dt="1"><name>spatialsy</name><data>000000004061a000</data>
+       <node f="42" dt="1"><name>spatialsy</name><data>000000004081b800</data>
         <node f="40"><name></name></node>
-        <node f="42" dt="1"><name>min</name><data>000000004061a000</data></node>
-        <node f="42" dt="1"><name>fixed</name><data>0000000040000000</data></node>
-        <node f="42" dt="1"><name>desired</name><data>000000004061a000</data></node>
+        <node f="42" dt="1"><name>desired</name><data>00000000408b1800</data></node>
        </node>
+       <node f="42" dt="1"><name>alignbottommargin</name><data>0000000000000000</data></node>
        <node f="42" dt="1"><name>alignrightmargin</name><data>0000000000000000</data></node>
        <node f="42"><name>variables</name></node>
-       <node f="42" dt="2"><name>viewfocus</name><data>MAIN:/project/model</data></node>
-       <node f="42" dt="2"><name>objectfocus</name><data>MAIN:/project/model</data></node>
-       <node f="42" dt="2"><name>windowtitle</name><data>Model Limit</data></node>
-       <node f="42"><name>style</name>
+       <node f="42" dt="1"><name>tabwindow</name><data>0000000000000000</data>
         <node f="40"><name></name></node>
-        <node f="42"><name>WS_CAPTION</name></node>
-        <node f="42"><name>WS_CLIPSIBLINGS</name></node>
-        <node f="42"><name>WS_CLIPCHILDREN</name></node>
-        <node f="42"><name>WS_SYSMENU</name></node>
+        <node f="42" dt="2"><name>OnDropWindow</name><data>if (objectexists(i)) applicationcommand("dockwindow", i, c, eventcode);
+else return applicationcommand("undockwindow", c, 0, dropx(), dropy());</data></node>
        </node>
-       <node f="42"><name>exstyle</name>
-        <node f="40"><name></name></node>
-        <node f="42"><name>WS_EX_TOOLWINDOW</name></node>
-       </node>
-      </data>
-       <node f="40"><name></name></node>
-       <node f="42" dt="4"><name>ModelLimit</name><data>
-        <node f="40"><name>object</name></node>
-        <node f="42" dt="2"><name>viewfocus</name><data>MAIN:/project/model</data>
-         <node f="40"><name></name></node>
-         <node f="42" dt="2"><name>workspacefocus</name><data>MAIN:/project/model</data></node>
-        </node>
-        <node f="42" dt="2"><name>objectfocus</name><data>MAIN:/project/model</data>
-         <node f="40"><name></name></node>
-         <node f="42" dt="2"><name>workspacefocus</name><data>MAIN:/project/model</data></node>
-        </node>
-        <node f="42" dt="1"><name>viewwindowtype</name><data>0000000040598000</data>
-         <node f="40"><name></name></node>
-         <node f="42" dt="2"><name>ModelLimit</name><data>VIEW:/active&gt;Tools/ModelLimit</data>
-          <node f="40"><name></name></node></node>
-         <node f="42" dt="2"><name>ClickListener</name><data>VIEW:/active&gt;DocListeners/Click</data>
-          <node f="40"><name></name></node></node>
-         <node f="42" dt="2"><name>DocChangeListener</name><data>VIEW:/active&gt;DocListeners/DocChange</data>
-          <node f="40"><name></name></node></node>
-        </node>
-        <node f="42" dt="1"><name>viewwindowopen</name><data>000000003ff00000</data></node>
-        <node f="42"><name>eventfunctions</name>
-         <node f="40"><name></name></node>
-         <node f="42" dt="2"><name>OnClose</name><data>applicationcommand("closedockedtool", c);</data></node>
-         <node f="42" dt="2"><name>OnPreOpen</name><data>function_s(c, "setLimits", "3D");</data></node>
-         <node f="42" dt="2"><name>OnOpen</name><data>repaintall();</data></node>
-         <node f="442" dt="2"><name>coldlinkx</name><data>if(applicationcommand("getmodellimit") == 0)
-	postclosewindowmessage(c);</data></node>
-         <node f="442" dt="2"><name>onDocViewClick</name><data>applylinks(c);</data></node>
-         <node f="442" dt="2"><name>onDocChange</name><data>treenode activeDoc = activedocumentnode();
-string docType = "";
-if (objectexists(activeDoc) &amp;&amp; objectexists(documentwindow(activeDoc)))
-	docType = gets(documentwindow(activeDoc));
-
-if(docType == "ProcessFlow" &amp;&amp; getvarstr(c, "curDocType") != "ProcessFlow") {
-	setvarstr(c, "curDocType", docType);
-	function_s(c, "setLimits", docType); 
-}
-else if(docType != "ProcessFlow" &amp;&amp; getvarstr(c, "curDocType") == "ProcessFlow"){
-	setvarstr(c, "curDocType", "3D");
-	function_s(c, "setLimits", "3D"); 
-}
-</data></node>
-         <node f="442" dt="2"><name>setLimits</name><data>string docType = param(1);
-treenode progressBar = node("ProgressBar", c);
-int limit = 0;
-int isFlow = 0;
-if(docType == "ProcessFlow") {
-	treenode flow = library().find("processflow/ProcessFlow");
-	limit = maxof(function_s(flow, "modelLimit"), 35);
-	isFlow = 1;
-}
-else {
-	limit = applicationcommand("getmodellimit");
-	if (limit == 0)
-		limit = INT_MAX;
-}
-
-setvarnum(progressBar, "limit", limit);
-setvarnum(progressBar, "processFlow", isFlow);
-
-applylinks(progressBar);
-//repaintview(progressBar);</data></node>
-        </node>
-        <node f="42"><name>variables</name>
-         <node f="40"><name></name></node>
-         <node f="42" dt="2"><name>curDocType</name><data>3D</data></node>
-        </node>
-        <node f="42" dt="1"><name>spatialx</name><data>0000000000000000</data></node>
-        <node f="42" dt="1"><name>spatialy</name><data>0000000000000000</data></node>
-        <node f="42" dt="1"><name>spatialsx</name><data>0000000040678000</data>
-         <node f="40"><name></name></node>
-         <node f="42" dt="1"><name>min</name><data>0000000040604000</data></node>
-         <node f="42" dt="1"><name>fixed</name><data>0000000040000000</data></node>
-         <node f="42" dt="1"><name>desired</name><data>0000000040640000</data></node>
-        </node>
-        <node f="42" dt="1"><name>spatialsy</name><data>00000000405dc000</data>
-         <node f="40"><name></name></node>
-         <node f="42" dt="1"><name>min</name><data>000000004061a000</data></node>
-         <node f="42" dt="1"><name>fixed</name><data>0000000040000000</data></node>
-         <node f="42" dt="1"><name>desired</name><data>000000004061a000</data></node>
-        </node>
-        <node f="42" dt="2"><name>windowtitle</name><data>Model Limit</data></node>
-        <node f="42" dt="2"><name>bitmap</name><data>buttons\view_views.ico</data></node>
-        <node f="42" dt="1"><name>palettewindow</name><data>00000000405b0000</data>
-         <node f="40"><name></name></node></node>
-        <node f="42" dt="1"><name>tabwindow</name><data>0000000040598000</data></node>
-        <node f="42" dt="2"><name>helptopic</name><data>ActivatingManagingLicense</data></node>
-        <node f="42"><name>style-</name>
-         <node f="40"><name></name></node>
-         <node f="42"><name>WS_CAPTION</name></node>
-         <node f="42"><name>WS_SYSMENU</name></node>
-        </node>
-        <node f="42" dt="1"><name>viewwindowclean</name><data>0000000000000000</data></node>
-        <node f="42" dt="1"><name>alignbottommargin</name><data>0000000000000000</data></node>
-        <node f="42" dt="1"><name>alignrightmargin</name><data>0000000000000000</data></node>
-       </data>
-        <node f="40"><name></name></node>
-        <node f="42" dt="4"><name>ProgressBar</name><data>
-         <node f="40"><name></name></node>
-         <node f="42" dt="1"><name>viewwindowtype</name><data>0000000040180000</data>
-          <node f="40"><name></name></node></node>
-         <node f="42" dt="1"><name>spatialx</name><data>0000000000000000</data></node>
-         <node f="42" dt="1"><name>spatialy</name><data>0000000040350000</data></node>
-         <node f="42" dt="1"><name>spatialsx</name><data>0000000040678000</data></node>
-         <node f="42" dt="1"><name>spatialsy</name><data>000000004058c000</data></node>
-         <node f="42" dt="1"><name>beveltype</name><data>0000000000000000</data></node>
-         <node f="42" dt="1"><name>alignrightmargin</name><data>0000000000000000</data></node>
-         <node f="42" dt="1"><name>alignbottommargin</name><data>0000000040350000</data></node>
-         <node f="42" dt="1"><name>-viewbackgroundcolor</name><data>000000003ff00000</data>
-          <node f="40"><name></name></node>
-          <node f="42" dt="1"><name></name><data>666666663fee6666</data></node>
-          <node f="42" dt="1"><name></name><data>666666663fee6666</data></node>
-          <node f="42" dt="1"><name></name><data>666666663fee6666</data></node>
-         </node>
-         <node f="42"><name>variables</name>
-          <node f="40"><name></name></node>
-          <node f="4000000042" dt="2"><name>theTitle</name><data>Model Limit</data>
-           <node f="40"><name></name></node></node>
-          <node f="4000000042" dt="2"><name>reached</name><data>Reached </data>
-           <node f="40"><name></name></node></node>
-          <node f="4000000042" dt="2"><name>noLimit</name><data>No Limit </data>
-           <node f="40"><name></name></node></node>
-          <node f="42" dt="1"><name>numObjects</name><data>0000000040458000</data></node>
-          <node f="42" dt="1"><name>limit</name><data>0000000040590000</data></node>
-          <node f="42" dt="1"><name>processFlow</name><data>0000000000000000</data></node>
-         </node>
-         <node f="42"><name>eventfunctions</name>
-          <node f="40"><name></name></node>
-          <node f="442" dt="2"><name>OnDraw</name><data>int sx = xsize(c);
-int sy = ysize(c);
-int objs = getvarnum(c, "numObjects");
-int limit = getvarnum(c, "limit");
-int fontSize = 12;
-int x = 5;
-
-string counter = concat(numtostring(objs), " / ", numtostring(limit));
-
-if(objs &gt;= limit)
-	counter = getvarstr(c, "reached");
-else if(limit == INT_MAX)
-	counter = getvarstr(c, "noLimit");;
-
-drawtext(c, getvarstr(c, "theTitle"), x, fontSize + 20, 0, 0, fontSize, 0);
-drawtext(c, counter, sx - 9 * stringlen(counter), fontSize + 20, 0, 0, fontSize, 0);
-
-int y = 50;
-int y2 = sy - 20;
-
-int x2Total = sx - x;
-int x2Content = x + (x2Total - x) * (objs / limit);
-x2Content = minof(x2Content, x2Total);
-
-drawrect(c, x, y, 0, x2Total, y2, 0, 0.9, 0.9, 0.9);
-drawrect(c, x, y, 0, x2Content, y2, 0, 0, 0.4, 0.9);
-drawrect(c, x, y2 - 10, 0, x2Content, y2, 0, 0, 0.4, 0.75);</data></node>
-          <node f="442" dt="2"><name>hotlinkx</name><data>if(getvarnum(c, "processFlow")) {
-	treenode flow = library().find("processflow/ProcessFlow");
-	setvarnum(c, "numObjects", function_s(flow, "modelLimit", 1));
-}
-else
-	setvarnum(c, "numObjects", applicationcommand("getmodellimit", 1));</data></node>
-         </node>
-        </data></node>
-        <node f="42" dt="4"><name>Help</name><data>
-         <node f="40"><name>object</name></node>
-         <node f="42" dt="1"><name>viewwindowtype</name><data>0000000040590000</data></node>
-         <node f="42" dt="1"><name>spatialx</name><data>000000004064e000</data></node>
-         <node f="42" dt="1"><name>spatialy</name><data>0000000000000000</data></node>
-         <node f="42" dt="1"><name>spatialsx</name><data>0000000040350000</data></node>
-         <node f="42" dt="1"><name>spatialsy</name><data>0000000040350000</data></node>
-         <node f="42" dt="1"><name>alignrightposition</name><data>0000000040350000</data></node>
-         <node f="42" dt="2"><name>bitmap</name><data>buttons\help.png</data></node>
-         <node f="42" dt="1"><name>beveltype</name><data>0000000040080000</data></node>
-         <node f="42" dt="2"><name>OnPress</name><data>applicationcommand("showguihelp", up(c));</data>
-          <node f="40"><name></name></node></node>
-        </data></node>
-       </node>
-      </node>
+       <node f="42" dt="2"><name>bitmap</name><data>buttons\view_tools.ico</data></node>
+      </data></node>
      </node>
      <node f="42" dt="4"><name>SplitterYPane</name><data>
       <node f="40"><name></name></node>
       <node f="42" dt="2"><name>saver</name><data>Splitter</data></node>
       <node f="42" dt="1"><name>spatialx</name><data>0000000040684000</data></node>
       <node f="42" dt="1"><name>spatialy</name><data>0000000000000000</data></node>
-      <node f="42" dt="1"><name>spatialsx</name><data>0000000040963800</data>
+      <node f="42" dt="1"><name>spatialsx</name><data>00000000408b2000</data>
        <node f="40"><name></name></node>
        <node f="42" dt="1"><name>min</name><data>00000000404e0000</data></node>
-       <node f="42" dt="1"><name>desired</name><data>0000000040963800</data></node>
+       <node f="42" dt="1"><name>desired</name><data>00000000408b2000</data></node>
       </node>
-      <node f="42" dt="1"><name>spatialsy</name><data>00000000408ce000</data>
+      <node f="42" dt="1"><name>spatialsy</name><data>0000000040832000</data>
        <node f="40"><name></name></node></node>
       <node f="42" dt="1"><name>alignbottommargin</name><data>0000000000000000</data></node>
       <node f="42"><name>variables</name></node>
@@ -22689,11 +22457,11 @@ else
        <node f="42" dt="2"><name>saver</name><data>Splitter</data></node>
        <node f="42" dt="1"><name>spatialx</name><data>0000000000000000</data></node>
        <node f="42" dt="1"><name>spatialy</name><data>0000000000000000</data></node>
-       <node f="42" dt="1"><name>spatialsx</name><data>0000000040963800</data></node>
-       <node f="42" dt="1"><name>spatialsy</name><data>0000000040868000</data>
+       <node f="42" dt="1"><name>spatialsx</name><data>00000000408b2000</data></node>
+       <node f="42" dt="1"><name>spatialsy</name><data>0000000040798000</data>
         <node f="40"><name></name></node>
         <node f="42" dt="1"><name>min</name><data>0000000040390000</data></node>
-        <node f="42" dt="1"><name>desired</name><data>0000000040868000</data></node>
+        <node f="42" dt="1"><name>desired</name><data>0000000040798000</data></node>
        </node>
        <node f="42" dt="1"><name>alignrightmargin</name><data>0000000000000000</data></node>
        <node f="42"><name>variables</name></node>
@@ -22705,12 +22473,12 @@ else
         <node f="42" dt="2"><name>saver</name><data>TabPane</data></node>
         <node f="42" dt="1"><name>spatialx</name><data>0000000000000000</data></node>
         <node f="42" dt="1"><name>spatialy</name><data>0000000000000000</data></node>
-        <node f="42" dt="1"><name>spatialsx</name><data>00000000408af800</data>
+        <node f="42" dt="1"><name>spatialsx</name><data>a9ab610440803b45</data>
          <node f="40"><name></name></node>
          <node f="42" dt="1"><name>min</name><data>00000000405e0000</data></node>
-         <node f="42" dt="1"><name>desired</name><data>00000000408af800</data></node>
+         <node f="42" dt="1"><name>desired</name><data>a9ab610440803b45</data></node>
         </node>
-        <node f="42" dt="1"><name>spatialsy</name><data>0000000040868000</data>
+        <node f="42" dt="1"><name>spatialsy</name><data>0000000040798000</data>
          <node f="40"><name></name></node>
          <node f="42" dt="1"><name>min</name><data>0000000040390000</data></node>
          <node f="42" dt="1"><name>desired</name><data>0000000040868000</data></node>
@@ -22749,11 +22517,11 @@ else return applicationcommand("undockwindow", c, 0, dropx(), dropy());</data></
           <node f="42" dt="2"><name>OnDropWindow</name><data>if (objectexists(i)) applicationcommand("dockwindow", i, c, eventcode);
 else return applicationcommand("undockwindow", c, 0, dropx(), dropy());</data></node>
          </node>
-         <node f="42" dt="1"><name>viewpointx</name><data>1ee2ca4f3ffaa293</data></node>
-         <node f="42" dt="1"><name>viewpointy</name><data>8aec1d01c0363062</data></node>
+         <node f="42" dt="1"><name>viewpointx</name><data>9a7a1edfc024e117</data></node>
+         <node f="42" dt="1"><name>viewpointy</name><data>6cfd4580bff1e091</data></node>
          <node f="42" dt="1"><name>viewpointrx</name><data>00000000c0410000</data></node>
          <node f="42" dt="1"><name>viewpointrz</name><data>0000000040b3b500</data></node>
-         <node f="42" dt="1"><name>viewpointradius</name><data>f663c4fb40371dfe</data>
+         <node f="42" dt="1"><name>viewpointradius</name><data>275079a5404b53b4</data>
           <node f="40"><name></name></node>
           <node f="42" dt="1"><name>eye</name><data>388659493f95c5d6</data></node>
           <node f="42" dt="1"><name>focus</name><data>1eb851ea3fc9eb85</data></node>
@@ -22761,8 +22529,8 @@ else return applicationcommand("undockwindow", c, 0, dropx(), dropy());</data></
           <node f="42" dt="1"><name>pass</name><data>0000000000000000</data></node>
          </node>
          <node f="42" dt="1"><name>viewhidealllabels</name><data>0000000000000000</data></node>
-         <node f="42" dt="1"><name>viewnear</name><data>25b8f7533fe5b5c5</data></node>
-         <node f="42" dt="1"><name>viewfar</name><data>86d6a15940853382</data></node>
+         <node f="42" dt="1"><name>viewnear</name><data>d7021da73ff9a9e0</data></node>
+         <node f="42" dt="1"><name>viewfar</name><data>91f810be40990fe5</data></node>
          <node f="42" dt="1"><name>statusbar</name><data>000000003ff00000</data></node>
          <node f="42" dt="2"><name>bitmap</name><data>buttons\view_persp.ico</data></node>
         </data></node>
@@ -22796,8 +22564,8 @@ else return applicationcommand("undockwindow", c, 0, dropx(), dropy());</data></
          <node f="42" dt="2"><name>saver</name><data>FlowItemBin</data></node>
          <node f="42" dt="1"><name>spatialx</name><data>000000003ff00000</data></node>
          <node f="42" dt="1"><name>spatialy</name><data>0000000040370000</data></node>
-         <node f="42" dt="1"><name>spatialsx</name><data>00000000408ae800</data></node>
-         <node f="42" dt="1"><name>spatialsy</name><data>000000004085c000</data></node>
+         <node f="42" dt="1"><name>spatialsx</name><data>0000000040802800</data></node>
+         <node f="42" dt="1"><name>spatialsy</name><data>0000000040780000</data></node>
          <node f="42" dt="1"><name>alignbottommargin</name><data>0000000000000000</data></node>
          <node f="42" dt="1"><name>alignrightmargin</name><data>0000000000000000</data></node>
          <node f="42"><name>variables</name></node>
@@ -22839,14 +22607,14 @@ else return applicationcommand("undockwindow", c, 0, dropx(), dropy());</data></
        <node f="42" dt="4"><name>TabPane</name><data>
         <node f="40"><name></name></node>
         <node f="42" dt="2"><name>saver</name><data>TabPane</data></node>
-        <node f="42" dt="1"><name>spatialx</name><data>00000000408b1800</data></node>
+        <node f="42" dt="1"><name>spatialx</name><data>a9ab610440805b45</data></node>
         <node f="42" dt="1"><name>spatialy</name><data>0000000000000000</data></node>
-        <node f="42" dt="1"><name>spatialsx</name><data>0000000040815800</data>
+        <node f="42" dt="1"><name>spatialsx</name><data>aca93df840758974</data>
          <node f="40"><name></name></node>
          <node f="42" dt="1"><name>min</name><data>0000000040590000</data></node>
-         <node f="42" dt="1"><name>desired</name><data>0000000040815800</data></node>
+         <node f="42" dt="1"><name>desired</name><data>aca93df840758974</data></node>
         </node>
-        <node f="42" dt="1"><name>spatialsy</name><data>0000000040868000</data>
+        <node f="42" dt="1"><name>spatialsy</name><data>0000000040798000</data>
          <node f="40"><name></name></node>
          <node f="42" dt="1"><name>min</name><data>0000000040390000</data></node>
          <node f="42" dt="1"><name>desired</name><data>0000000040830000</data></node>
@@ -22949,8 +22717,8 @@ else return applicationcommand("undockwindow", c, 0, dropx(), dropy());</data></
        <node f="40"><name></name></node>
        <node f="42" dt="2"><name>saver</name><data>ToolTabPane</data></node>
        <node f="42" dt="1"><name>spatialx</name><data>0000000000000000</data></node>
-       <node f="42" dt="1"><name>spatialy</name><data>000000004086a000</data></node>
-       <node f="42" dt="1"><name>spatialsx</name><data>0000000040963800</data>
+       <node f="42" dt="1"><name>spatialy</name><data>000000004079c000</data></node>
+       <node f="42" dt="1"><name>spatialsx</name><data>00000000408b2000</data>
         <node f="40"><name></name></node>
         <node f="42" dt="1"><name>min</name><data>00000000404e0000</data></node>
         <node f="42" dt="1"><name>desired</name><data>0000000040963000</data></node>
@@ -22996,7 +22764,7 @@ else return applicationcommand("undockwindow", c, 0, dropx(), dropy());</data></
         <node f="42" dt="2"><name>saver</name><data>SystemConsole</data></node>
         <node f="42" dt="1"><name>spatialx</name><data>000000003ff00000</data></node>
         <node f="42" dt="1"><name>spatialy</name><data>0000000040370000</data></node>
-        <node f="42" dt="1"><name>spatialsx</name><data>0000000040963000</data></node>
+        <node f="42" dt="1"><name>spatialsx</name><data>00000000408b1000</data></node>
         <node f="42" dt="1"><name>spatialsy</name><data>0000000040636000</data>
          <node f="40"><name></name></node>
          <node f="42" dt="1"><name>min</name><data>0000000040490000</data></node>
@@ -23027,7 +22795,7 @@ else return applicationcommand("undockwindow", c, 0, dropx(), dropy());</data></
         <node f="42" dt="2"><name>saver</name><data>CompilerConsole</data></node>
         <node f="42" dt="1"><name>spatialx</name><data>000000003ff00000</data></node>
         <node f="42" dt="1"><name>spatialy</name><data>0000000040370000</data></node>
-        <node f="42" dt="1"><name>spatialsx</name><data>0000000040963000</data></node>
+        <node f="42" dt="1"><name>spatialsx</name><data>00000000408b1000</data></node>
         <node f="42" dt="1"><name>spatialsy</name><data>0000000040636000</data>
          <node f="40"><name></name></node>
          <node f="42" dt="1"><name>min</name><data>0000000040490000</data></node>
@@ -23056,7 +22824,7 @@ else return applicationcommand("undockwindow", c, 0, dropx(), dropy());</data></
      <node f="42" dt="4"><name>ToolPane</name><data>
       <node f="40"><name></name></node>
       <node f="42" dt="2"><name>saver</name><data>ToolPane</data></node>
-      <node f="42" dt="1"><name>spatialx</name><data>0000000040995000</data></node>
+      <node f="42" dt="1"><name>spatialx</name><data>000000004090a800</data></node>
       <node f="42" dt="1"><name>spatialy</name><data>0000000000000000</data></node>
       <node f="42" dt="1"><name>spatialsx</name><data>000000004072c000</data>
        <node f="40"><name></name></node>
@@ -23064,7 +22832,7 @@ else return applicationcommand("undockwindow", c, 0, dropx(), dropy());</data></
        <node f="42" dt="1"><name>fixed</name><data>0000000040000000</data></node>
        <node f="42" dt="1"><name>desired</name><data>000000004072c000</data></node>
       </node>
-      <node f="42" dt="1"><name>spatialsy</name><data>00000000408ce000</data>
+      <node f="42" dt="1"><name>spatialsy</name><data>0000000040832000</data>
        <node f="40"><name></name></node></node>
       <node f="42" dt="1"><name>alignbottommargin</name><data>0000000000000000</data></node>
       <node f="42" dt="1"><name>alignrightmargin</name><data>0000000000000000</data></node>
@@ -23096,11 +22864,11 @@ else return applicationcommand("undockwindow", c, 0, dropx(), dropy());</data></
         <node f="42" dt="1"><name>fixed</name><data>0000000040000000</data></node>
         <node f="42" dt="1"><name>desired</name><data>000000004072c000</data></node>
        </node>
-       <node f="42" dt="1"><name>spatialsy</name><data>00000000408c3000</data></node>
+       <node f="42" dt="1"><name>spatialsy</name><data>0000000040827000</data></node>
        <node f="42" dt="1"><name>alignbottommargin</name><data>0000000000000000</data></node>
        <node f="42" dt="1"><name>alignrightmargin</name><data>0000000000000000</data></node>
        <node f="42"><name>variables</name></node>
-       <node f="42" dt="2"><name>viewfocus</name><data>VIEW:/active/MainPanel/BackPanel/SplitterXPane/SplitterYPane~2/SplitterXPane/TabPane/TabControl/Perspective</data></node>
+       <node f="42" dt="2"><name>viewfocus</name><data>VIEW:/active/MainPanel/BackPanel/SplitterXPane/SplitterYPane/SplitterXPane/TabPane/TabControl/Perspective</data></node>
        <node f="42" dt="2"><name>bitmap</name><data>buttons\view_quickproperties.ico</data></node>
       </data></node>
      </node>
@@ -31260,9 +31028,9 @@ return /**/current.centerObjects[/**/
   </node>
   <node f="42"><name>objectinfo</name>
    <node f="40"><name></name></node>
-   <node f="42"><name></name></node>
-   <node f="42"><name></name></node>
-   <node f="42"><name></name></node>
+   <node f="42"><name>CurContent:  0</name></node>
+   <node f="42"><name>MaxContent:  0</name></node>
+   <node f="42"><name>AvgStaytime: 0.0</name></node>
   </node>
   <node f="4000000042" dt="2"><name>windowtitle</name><data>Queue</data>
    <node f="40"><name></name></node></node>
@@ -31737,9 +31505,9 @@ return 1;</data></node>
   </node>
   <node f="42"><name>objectinfo</name>
    <node f="40"><name></name></node>
-   <node f="42"><name></name></node>
-   <node f="42"><name></name></node>
-   <node f="42"><name></name></node>
+   <node f="42"><name>CurContent:  0</name></node>
+   <node f="42"><name>MaxContent:  0</name></node>
+   <node f="42"><name>AvgStaytime: 0.0</name></node>
   </node>
   <node f="4000000042" dt="2"><name>windowtitle</name><data>Queue</data>
    <node f="40"><name></name></node></node>
@@ -31974,9 +31742,9 @@ return 1;</data></node>
   </node>
   <node f="42"><name>objectinfo</name>
    <node f="40"><name></name></node>
-   <node f="42"><name></name></node>
-   <node f="42"><name></name></node>
-   <node f="42"><name></name></node>
+   <node f="42"><name>CurContent:  0</name></node>
+   <node f="42"><name>MaxContent:  0</name></node>
+   <node f="42"><name>AvgStaytime: 0.0</name></node>
   </node>
   <node f="4000000042" dt="2"><name>windowtitle</name><data>Queue</data>
    <node f="40"><name></name></node></node>
@@ -32214,9 +31982,9 @@ return /**/current.centerObjects[/**/
   </node>
   <node f="42"><name>objectinfo</name>
    <node f="40"><name></name></node>
-   <node f="42"><name></name></node>
-   <node f="42"><name></name></node>
-   <node f="42"><name></name></node>
+   <node f="42"><name>CurContent:  0</name></node>
+   <node f="42"><name>MaxContent:  0</name></node>
+   <node f="42"><name>AvgStaytime: 0.0</name></node>
   </node>
   <node f="4000000042" dt="2"><name>windowtitle</name><data>Queue</data>
    <node f="40"><name></name></node></node>
@@ -32454,9 +32222,9 @@ return /**/current.centerObjects[/**/
   </node>
   <node f="42"><name>objectinfo</name>
    <node f="40"><name></name></node>
-   <node f="42"><name></name></node>
-   <node f="42"><name></name></node>
-   <node f="42"><name></name></node>
+   <node f="42"><name>CurContent:  0</name></node>
+   <node f="42"><name>MaxContent:  0</name></node>
+   <node f="42"><name>AvgStaytime: 0.0</name></node>
   </node>
   <node f="4000000042" dt="2"><name>windowtitle</name><data>Queue</data>
    <node f="40"><name></name></node></node>
@@ -43906,9 +43674,9 @@ return /**/current.centerObjects[/**/
   </node>
   <node f="42"><name>objectinfo</name>
    <node f="40"><name></name></node>
-   <node f="42"><name></name></node>
-   <node f="42"><name></name></node>
-   <node f="42"><name></name></node>
+   <node f="42"><name>CurContent:  0</name></node>
+   <node f="42"><name>MaxContent:  0</name></node>
+   <node f="42"><name>AvgStaytime: 0.0</name></node>
   </node>
   <node f="4000000042" dt="2"><name>windowtitle</name><data>Queue</data>
    <node f="40"><name></name></node></node>
@@ -49732,9 +49500,9 @@ return 1;</data></node>
   </node>
   <node f="42"><name>objectinfo</name>
    <node f="40"><name></name></node>
-   <node f="42"><name></name></node>
-   <node f="42"><name></name></node>
-   <node f="42"><name></name></node>
+   <node f="42"><name>CurContent:  0</name></node>
+   <node f="42"><name>MaxContent:  0</name></node>
+   <node f="42"><name>AvgStaytime: 0.0</name></node>
   </node>
   <node f="4000000042" dt="2"><name>windowtitle</name><data>Queue</data>
    <node f="40"><name></name></node></node>
@@ -51925,9 +51693,9 @@ return 1;</data></node>
   </node>
   <node f="42"><name>objectinfo</name>
    <node f="40"><name></name></node>
-   <node f="42"><name></name></node>
-   <node f="42"><name></name></node>
-   <node f="42"><name></name></node>
+   <node f="42"><name>CurContent:  0</name></node>
+   <node f="42"><name>MaxContent:  0</name></node>
+   <node f="42"><name>AvgStaytime: 0.0</name></node>
   </node>
   <node f="4000000042" dt="2"><name>windowtitle</name><data>Queue</data>
    <node f="40"><name></name></node></node>
@@ -51947,6 +51715,3430 @@ return 1;</data></node>
      <node f="42" dt="3"><name></name><data><coupling>null</coupling></data></node>
     </node>
    </node>
+  </node>
+  <node f="42"><name>events</name>
+   <node f="40"><name></name></node></node>
+  <node f="42" dt="7"><name>resetvalues</name><data/>
+   <node f="40"><name></name></node>
+   <node f="42" dt="2"><name>sdt::attributetree</name><data>ObjectResetValues</data>
+    <node f="40"><name></name></node></node>
+  </node>
+  <node f="42"><name>stored</name></node>
+ </data></node>
+ <node f="42" dt="4"><name>Rack3</name><data>
+  <node f="40"><name></name></node>
+  <node f="42"><name>superclasses</name>
+   <node f="40"><name></name></node>
+   <node f="42" dt="3"><name>StorageObject</name><data><coupling>null</coupling></data></node>
+  </node>
+  <node f="42"><name>classes</name>
+   <node f="40"><name></name></node>
+   <node f="42" dt="3"><name>Rack</name><data><coupling>null</coupling></data></node>
+  </node>
+  <node f="42"><name>variables</name>
+   <node f="80000040"><name></name></node>
+   <node f="42" dt="1"><name>pickplaceyoffset</name><data>0000000000000000</data></node>
+   <node f="42" dt="1"><name>tiltvalue</name><data>0000000000000000</data></node>
+   <node f="42" dt="1"><name>tiltangle</name><data>0000000000000000</data></node>
+   <node f="42" dt="1"><name>hidefloor</name><data>0000000000000000</data></node>
+   <node f="42" dt="1"><name>extendcolumn</name><data>0000000000000000</data></node>
+   <node f="42"><name>bays</name>
+    <node f="40"><name></name></node>
+    <node f="42" dt="7"><name></name><data/>
+     <node f="40"><name></name></node>
+     <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+     <node f="42" dt="1"><name>size</name><data>0000000040040000</data></node>
+     <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+     <node f="42"><name>levels</name>
+      <node f="40"><name></name></node>
+      <node f="42" dt="7"><name></name><data/>
+       <node f="40"><name></name></node>
+       <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+       <node f="42" dt="1"><name>size</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+       <node f="42"><name>slots</name>
+        <node f="40"><name></name></node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>d55e80f800000255</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>d55e815000000255</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>d55e81a800000255</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>d55e820000000255</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>d55e825800000255</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>d55e82b000000255</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>d55e437800000255</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>d55e43d000000255</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>3f80000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>de838e7000000255</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>0000000000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+       </node>
+       <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageLevel</data>
+        <node f="40"><name></name></node></node>
+      </node>
+      <node f="42" dt="7"><name></name><data/>
+       <node f="40"><name></name></node>
+       <node f="42" dt="1"><name>loc</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>size</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+       <node f="42"><name>slots</name>
+        <node f="40"><name></name></node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>d55e2fa800000255</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>d55e300000000255</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>d55e305800000255</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>d55e30b000000255</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>d55e310800000255</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>d55e316000000255</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>d55e352800000255</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>d55e358000000255</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>c69d7e8800000255</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>c69d7ef000000255</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>c69d7f5800000255</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>c69d7fc000000255</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>c69d802800000255</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>c69d809000000255</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>c69d871000000255</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>c69d877800000255</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+       </node>
+       <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageLevel</data>
+        <node f="40"><name></name></node></node>
+      </node>
+      <node f="42" dt="7"><name></name><data/>
+       <node f="40"><name></name></node>
+       <node f="42" dt="1"><name>loc</name><data>6666666640066666</data></node>
+       <node f="42" dt="1"><name>size</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+       <node f="42"><name>slots</name>
+        <node f="40"><name></name></node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>ffffffff00000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>0000002000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>fffffff8ffffffff</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>00000003003a0043</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>ffffffff00000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>00000020006d0061</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0045005f0065006d</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>00670072006e0065</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>ffffffff00000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>0000002000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>fffffff8ffffffff</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>ffffffff00000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>0000002000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+       </node>
+       <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageLevel</data>
+        <node f="40"><name></name></node></node>
+      </node>
+      <node f="42" dt="7"><name></name><data/>
+       <node f="40"><name></name></node>
+       <node f="42" dt="1"><name>loc</name><data>cccccccc4010cccc</data></node>
+       <node f="42" dt="1"><name>size</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+       <node f="42"><name>slots</name>
+        <node f="40"><name></name></node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>ffffffff00000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>0000002000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>deb5d0d000000255</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>0000000300000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>ffffffff00000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>0000002000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>0000002000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>000000049943b1f9</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+       </node>
+       <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageLevel</data>
+        <node f="40"><name></name></node></node>
+      </node>
+      <node f="42" dt="7"><name></name><data/>
+       <node f="40"><name></name></node>
+       <node f="42" dt="1"><name>loc</name><data>6666666640166666</data></node>
+       <node f="42" dt="1"><name>size</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+       <node f="42"><name>slots</name>
+        <node f="40"><name></name></node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>de0b283000000255</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>de0b28f000000255</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>de0b223000000255</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>de0b31f000000255</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>de0b265000000255</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>de0b307000000255</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>de0b529000000255</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>de0ae57000000255</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>3f80000000000255</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>de843a7000000255</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>0000000000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+       </node>
+       <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageLevel</data>
+        <node f="40"><name></name></node></node>
+      </node>
+      <node f="42" dt="7"><name></name><data/>
+       <node f="40"><name></name></node>
+       <node f="42" dt="1"><name>loc</name><data>00000000401c0000</data></node>
+       <node f="42" dt="1"><name>size</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+       <node f="42"><name>slots</name>
+        <node f="40"><name></name></node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>0061004400610074</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>0046005c0065006c</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>fffffff8ffffffff</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>000000030065006c</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>ffffffff00000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>000000200032002e</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>ffffffff00000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>0000002000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>0909205228202626</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>6c6e6f2161684379</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>4e65676e2065646f</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>6f207c7c43796c6e</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>676e6168646f4e65</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>3d3d206542666b20</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>ffffffff00000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>0000002000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+       </node>
+       <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageLevel</data>
+        <node f="40"><name></name></node></node>
+      </node>
+     </node>
+     <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageBay</data>
+      <node f="40"><name></name></node>
+      <node f="42" dt="1"><name>numItems</name><data>0000000000000000</data></node>
+     </node>
+    </node>
+    <node f="42" dt="7"><name></name><data/>
+     <node f="40"><name></name></node>
+     <node f="42" dt="1"><name>loc</name><data>0000000040040000</data></node>
+     <node f="42" dt="1"><name>size</name><data>0000000040040000</data></node>
+     <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+     <node f="42"><name>levels</name>
+      <node f="40"><name></name></node>
+      <node f="42" dt="7"><name></name><data/>
+       <node f="40"><name></name></node>
+       <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+       <node f="42" dt="1"><name>size</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+       <node f="42"><name>slots</name>
+        <node f="40"><name></name></node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>6c6e6f2161684379</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>4e65676e2065646f</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>6f207c7c43796c6e</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>676e6168646f4e65</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>3d3d206542666b20</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>5b79646f65646e69</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>ffffffff00000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>0000002000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>c1b8a14900000255</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>bcc5da5000000255</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>c1b8b0e800000255</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>d50a2e8a00000255</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>bcc5da5000000255</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>0000000000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+       </node>
+       <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageLevel</data>
+        <node f="40"><name></name></node></node>
+      </node>
+      <node f="42" dt="7"><name></name><data/>
+       <node f="40"><name></name></node>
+       <node f="42" dt="1"><name>loc</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>size</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+       <node f="42"><name>slots</name>
+        <node f="40"><name></name></node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>8000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>0000002000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>fffffff8ffffffff</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>0000000300000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>ffffffff00000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>0000002000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>ffffffff00000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>0000002000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>796c6e6f6e616843</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>6f4e65677c206564</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>6e6f207c6843796c</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>65676e6165646f4e</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>203d3d206f42666b</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>725b796461526465</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>ffffffff00000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>000000200070006d</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+       </node>
+       <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageLevel</data>
+        <node f="40"><name></name></node></node>
+      </node>
+      <node f="42" dt="7"><name></name><data/>
+       <node f="40"><name></name></node>
+       <node f="42" dt="1"><name>loc</name><data>6666666640066666</data></node>
+       <node f="42" dt="1"><name>size</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+       <node f="42"><name>slots</name>
+        <node f="40"><name></name></node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>ca55bc3000000255</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>d52b030000000255</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>ca55cb4000000255</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>ca55cfc800000255</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>ca55d1e800000255</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>ca55d53800000255</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>ca55f9e000000255</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>ca557c8000000255</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>ffffffff00000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>000000200065006c</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>deb5bcf000000255</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>000000030032002e</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>ffffffff00000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>000000200070006d</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>0000000000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+       </node>
+       <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageLevel</data>
+        <node f="40"><name></name></node></node>
+      </node>
+      <node f="42" dt="7"><name></name><data/>
+       <node f="40"><name></name></node>
+       <node f="42" dt="1"><name>loc</name><data>cccccccc4010cccc</data></node>
+       <node f="42" dt="1"><name>size</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+       <node f="42"><name>slots</name>
+        <node f="40"><name></name></node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>0909205228202626</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>6c6e6f2161684379</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>4e65676e2065646f</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>6f207c7c43796c6e</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>676e6168646f4e65</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>3d3d206542666b20</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>c3c1000000007ffc</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>796c6e6f6e616843</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>6f4e65677c206564</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>6e6f207c6843796c</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>65676e6165646f4e</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>203d3d206f42666b</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>725b796461526465</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>00000004b3324b76</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+       </node>
+       <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageLevel</data>
+        <node f="40"><name></name></node></node>
+      </node>
+      <node f="42" dt="7"><name></name><data/>
+       <node f="40"><name></name></node>
+       <node f="42" dt="1"><name>loc</name><data>6666666640166666</data></node>
+       <node f="42" dt="1"><name>size</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+       <node f="42"><name>slots</name>
+        <node f="40"><name></name></node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>6c6e6f2161684379</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>4e65676e2065646f</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>6f207c7c43796c6e</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>676e6168646f4e65</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>3d3d206542666b20</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>5b79646f65646e69</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>0000000000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>c69d7a7800000255</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>c69d7ce800000255</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>c69d73f800000255</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>c69d69d000000255</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>c69d6bd800000255</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>c69d6ca800000255</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>c69daee000000255</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>c69daf4800000255</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+       </node>
+       <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageLevel</data>
+        <node f="40"><name></name></node></node>
+      </node>
+      <node f="42" dt="7"><name></name><data/>
+       <node f="40"><name></name></node>
+       <node f="42" dt="1"><name>loc</name><data>00000000401c0000</data></node>
+       <node f="42" dt="1"><name>size</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+       <node f="42"><name>slots</name>
+        <node f="40"><name></name></node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>2609092021282026</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>796c6e6f6e616843</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>6f4e65677c206564</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>6e6f207c6843796c</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>65676e6165646f4e</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>203d3d206f42666b</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>ffffffff00000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>0000002000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>0000009100000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>0000002000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>fffffff8ffffffff</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>ffffffff00000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>0000002000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+       </node>
+       <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageLevel</data>
+        <node f="40"><name></name></node></node>
+      </node>
+     </node>
+     <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageBay</data>
+      <node f="40"><name></name></node>
+      <node f="42" dt="1"><name>numItems</name><data>0000000000000000</data></node>
+     </node>
+    </node>
+    <node f="42" dt="7"><name></name><data/>
+     <node f="40"><name></name></node>
+     <node f="42" dt="1"><name>loc</name><data>0000000040140000</data></node>
+     <node f="42" dt="1"><name>size</name><data>0000000040040000</data></node>
+     <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+     <node f="42"><name>levels</name>
+      <node f="40"><name></name></node>
+      <node f="42" dt="7"><name></name><data/>
+       <node f="40"><name></name></node>
+       <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+       <node f="42" dt="1"><name>size</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+       <node f="42"><name>slots</name>
+        <node f="40"><name></name></node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>2609092021282026</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>796c6e6f6e616843</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>6f4e65677c206564</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>6e6f207c6843796c</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>65676e6165646f4e</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>203d3d206f42666b</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>ffffffff00000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>0000002000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>d580b3b000000255</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>d580bef000000255</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>deb5bdb000000255</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>0000000300000255</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>ffffffff00000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>0000002000000255</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>d580be3000000255</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>d580af9000000255</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+       </node>
+       <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageLevel</data>
+        <node f="40"><name></name></node></node>
+      </node>
+      <node f="42" dt="7"><name></name><data/>
+       <node f="40"><name></name></node>
+       <node f="42" dt="1"><name>loc</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>size</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+       <node f="42"><name>slots</name>
+        <node f="40"><name></name></node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>3f80000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>de825ff000000255</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>0000000000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>deb5b09000000255</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>0000000300000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>ffffffff00000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>0000002000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>0000002000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+       </node>
+       <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageLevel</data>
+        <node f="40"><name></name></node></node>
+      </node>
+      <node f="42" dt="7"><name></name><data/>
+       <node f="40"><name></name></node>
+       <node f="42" dt="1"><name>loc</name><data>6666666640066666</data></node>
+       <node f="42" dt="1"><name>size</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+       <node f="42"><name>slots</name>
+        <node f="40"><name></name></node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>6c6201000d3e2265</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>47e8bba080000a3c</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>80bbc31800000001</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>aa467a7000000255</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>80bbc31800000001</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>aa97450000000255</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>6e67695372757461</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>6d61720000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>ffffffffffffffff</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>6f633c0000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+       </node>
+       <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageLevel</data>
+        <node f="40"><name></name></node></node>
+      </node>
+      <node f="42" dt="7"><name></name><data/>
+       <node f="40"><name></name></node>
+       <node f="42" dt="1"><name>loc</name><data>cccccccc4010cccc</data></node>
+       <node f="42" dt="1"><name>size</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+       <node f="42"><name>slots</name>
+        <node f="40"><name></name></node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>616e006e2200656d</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>62206f0000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>2f3c2e6361726150</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>777420656576206f</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>0000000000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+       </node>
+       <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageLevel</data>
+        <node f="40"><name></name></node></node>
+      </node>
+      <node f="42" dt="7"><name></name><data/>
+       <node f="40"><name></name></node>
+       <node f="42" dt="1"><name>loc</name><data>6666666640166666</data></node>
+       <node f="42" dt="1"><name>size</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+       <node f="42"><name>slots</name>
+        <node f="40"><name></name></node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>6c61010000736169</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>4688b84080002a22</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>80bbc31800000001</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>aa45f05000000255</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>80bbc31800000001</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>aa96ede000000255</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>ffffffffffffffff</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>206e010074636576</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>47a9bb6180000170</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>80bbc31800000001</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>aa46675000000255</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>540001006c206568</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>47b0bb6880000268</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+       </node>
+       <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageLevel</data>
+        <node f="40"><name></name></node></node>
+      </node>
+      <node f="42" dt="7"><name></name><data/>
+       <node f="40"><name></name></node>
+       <node f="42" dt="1"><name>loc</name><data>00000000401c0000</data></node>
+       <node f="42" dt="1"><name>size</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+       <node f="42"><name>slots</name>
+        <node f="40"><name></name></node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>632065686572726f</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>0000000000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>0a0d00734f2f3c09</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>0000000000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+       </node>
+       <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageLevel</data>
+        <node f="40"><name></name></node></node>
+      </node>
+     </node>
+     <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageBay</data>
+      <node f="40"><name></name></node>
+      <node f="42" dt="1"><name>numItems</name><data>0000000000000000</data></node>
+     </node>
+    </node>
+    <node f="42" dt="7"><name></name><data/>
+     <node f="40"><name></name></node>
+     <node f="42" dt="1"><name>loc</name><data>00000000401e0000</data></node>
+     <node f="42" dt="1"><name>size</name><data>0000000040040000</data></node>
+     <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+     <node f="42"><name>levels</name>
+      <node f="40"><name></name></node>
+      <node f="42" dt="7"><name></name><data/>
+       <node f="40"><name></name></node>
+       <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+       <node f="42" dt="1"><name>size</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+       <node f="42"><name>slots</name>
+        <node f="40"><name></name></node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>ffffffffffffffff</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>2e72010065522f3c</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>4749b80180002173</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>80bbc31800000001</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>ab973f8000000255</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>533c0100616e6769</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>4750b80880002200</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>ffffffffffffffff</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>090901007365443c</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>46f9b89180003174</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>80bbc31800000001</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>ab97849000000255</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>2d2001006f73203d</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>46c0b89880003263</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+       </node>
+       <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageLevel</data>
+        <node f="40"><name></name></node></node>
+      </node>
+      <node f="42" dt="7"><name></name><data/>
+       <node f="40"><name></name></node>
+       <node f="42" dt="1"><name>loc</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>size</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+       <node f="42"><name>slots</name>
+        <node f="40"><name></name></node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>090a0d3e75533c09</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>6e67690000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>ffffffffffffffff</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>6f22000000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>3c09090000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>ffffffffffffffff</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>657001006f642200</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>462eb8e280003822</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>ffffffffffffffff</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>0000000000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+       </node>
+       <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageLevel</data>
+        <node f="40"><name></name></node></node>
+      </node>
+      <node f="42" dt="7"><name></name><data/>
+       <node f="40"><name></name></node>
+       <node f="42" dt="1"><name>loc</name><data>6666666640066666</data></node>
+       <node f="42" dt="1"><name>size</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+       <node f="42"><name>slots</name>
+        <node f="40"><name></name></node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>80bbc31800000001</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>aa46004000000255</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>0000000000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>747501006f6e6120</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>4718b83080001a20</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>80bbc31800000001</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>aa972eb000000255</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>80bbc31800000001</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>ab247e2000000255</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+       </node>
+       <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageLevel</data>
+        <node f="40"><name></name></node></node>
+      </node>
+      <node f="42" dt="7"><name></name><data/>
+       <node f="40"><name></name></node>
+       <node f="42" dt="1"><name>loc</name><data>cccccccc4010cccc</data></node>
+       <node f="42" dt="1"><name>size</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+       <node f="42"><name>slots</name>
+        <node f="40"><name></name></node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>656d616e65642200</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>0000000000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>ffffffffffffffff</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>7420010076206f77</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>47d9bbf180001172</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>80bbc31800000001</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>ab977e3000000255</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>74700100006e6f69</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>4720bbf88000123c</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+       </node>
+       <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageLevel</data>
+        <node f="40"><name></name></node></node>
+      </node>
+      <node f="42" dt="7"><name></name><data/>
+       <node f="40"><name></name></node>
+       <node f="42" dt="1"><name>loc</name><data>6666666640166666</data></node>
+       <node f="42" dt="1"><name>size</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+       <node f="42"><name>slots</name>
+        <node f="40"><name></name></node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>80bbc31800000001</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>aa971b9000000255</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>0000000000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>796d200000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>ffffffffffffffff</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>0070010020200a0d</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>470ebbc280001809</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>ffffffffffffffff</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>0000000000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+       </node>
+       <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageLevel</data>
+        <node f="40"><name></name></node></node>
+      </node>
+      <node f="42" dt="7"><name></name><data/>
+       <node f="40"><name></name></node>
+       <node f="42" dt="1"><name>loc</name><data>00000000401c0000</data></node>
+       <node f="42" dt="1"><name>size</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+       <node f="42"><name>slots</name>
+        <node f="40"><name></name></node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>74616e6700657275</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>0065700000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>ffffffffffffffff</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>726f740000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>762072656f746365</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>64656e0000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>ffffffffffffffff</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>6420350000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+       </node>
+       <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageLevel</data>
+        <node f="40"><name></name></node></node>
+      </node>
+     </node>
+     <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageBay</data>
+      <node f="40"><name></name></node>
+      <node f="42" dt="1"><name>numItems</name><data>0000000000000000</data></node>
+     </node>
+    </node>
+    <node f="42" dt="7"><name></name><data/>
+     <node f="40"><name></name></node>
+     <node f="42" dt="1"><name>loc</name><data>0000000040240000</data></node>
+     <node f="42" dt="1"><name>size</name><data>0000000040040000</data></node>
+     <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+     <node f="42"><name>levels</name>
+      <node f="40"><name></name></node>
+      <node f="42" dt="7"><name></name><data/>
+       <node f="40"><name></name></node>
+       <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+       <node f="42" dt="1"><name>size</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+       <node f="42"><name>slots</name>
+        <node f="40"><name></name></node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>80bbc31800000001</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>ab9779f000000255</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>0000000000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>6e6f0100090a0d00</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>4638b8d080003a73</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>80bbc31800000001</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>aa46037000000255</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>80bbc31800000001</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>aa463ab000000255</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+       </node>
+       <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageLevel</data>
+        <node f="40"><name></name></node></node>
+      </node>
+      <node f="42" dt="7"><name></name><data/>
+       <node f="40"><name></name></node>
+       <node f="42" dt="1"><name>loc</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>size</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+       <node f="42"><name>slots</name>
+        <node f="40"><name></name></node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>6120223d7361696c</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>6e67690000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>742d6e7200657079</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>74206f0000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>ffffffffffffffff</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>697401000d006e6f</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>46beb85280002844</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>ffffffffffffffff</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>0000000000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+       </node>
+       <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageLevel</data>
+        <node f="40"><name></name></node></node>
+      </node>
+      <node f="42" dt="7"><name></name><data/>
+       <node f="40"><name></name></node>
+       <node f="42" dt="1"><name>loc</name><data>6666666640066666</data></node>
+       <node f="42" dt="1"><name>size</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+       <node f="42"><name>slots</name>
+        <node f="40"><name></name></node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>ffffffffffffffff</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>6544010069726373</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>4669b9218000416e</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>80bbc31800000001</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>abf82f5000000255</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>6e6f010020746e65</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>4670b92880004273</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>3c0920207265704f</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>2a22000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>090a0d0069533c09</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+       </node>
+       <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageLevel</data>
+        <node f="40"><name></name></node></node>
+      </node>
+      <node f="42" dt="7"><name></name><data/>
+       <node f="40"><name></name></node>
+       <node f="42" dt="1"><name>loc</name><data>cccccccc4010cccc</data></node>
+       <node f="42" dt="1"><name>size</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+       <node f="42"><name>slots</name>
+        <node f="40"><name></name></node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>80bbc31800000001</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>abf839f000000255</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>0000000000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>80bbc31800000001</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>ab971b6000000255</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>0000000000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+       </node>
+       <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageLevel</data>
+        <node f="40"><name></name></node></node>
+      </node>
+      <node f="42" dt="7"><name></name><data/>
+       <node f="40"><name></name></node>
+       <node f="42" dt="1"><name>loc</name><data>6666666640166666</data></node>
+       <node f="42" dt="1"><name>size</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+       <node f="42"><name>slots</name>
+        <node f="40"><name></name></node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>226365566568543e</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>63206f0000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>6974616321206e6f</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>6d61732069642065</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>7475620000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>756f642222656c62</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+       </node>
+       <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageLevel</data>
+        <node f="40"><name></name></node></node>
+      </node>
+      <node f="42" dt="7"><name></name><data/>
+       <node f="40"><name></name></node>
+       <node f="42" dt="1"><name>loc</name><data>00000000401c0000</data></node>
+       <node f="42" dt="1"><name>size</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+       <node f="42"><name>slots</name>
+        <node f="40"><name></name></node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>2d6e720000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>ffffffffffffffff</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>616d010059007972</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>479ebbb280000870</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>ffffffffffffffff</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>0000000000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>c11cc7c700000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>c086960000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>c086966c41ad3438</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+       </node>
+       <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageLevel</data>
+        <node f="40"><name></name></node></node>
+      </node>
+     </node>
+     <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageBay</data>
+      <node f="40"><name></name></node>
+      <node f="42" dt="1"><name>numItems</name><data>0000000000000000</data></node>
+     </node>
+    </node>
+    <node f="42" dt="7"><name></name><data/>
+     <node f="40"><name></name></node>
+     <node f="42" dt="1"><name>loc</name><data>0000000040290000</data></node>
+     <node f="42" dt="1"><name>size</name><data>0000000040040000</data></node>
+     <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+     <node f="42"><name>levels</name>
+      <node f="40"><name></name></node>
+      <node f="42" dt="7"><name></name><data/>
+       <node f="40"><name></name></node>
+       <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+       <node f="42" dt="1"><name>size</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+       <node f="42"><name>slots</name>
+        <node f="40"><name></name></node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>ffffffffffffffff</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>4119010041b7491c</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>40dd8c61800001b1</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>80bbc31800000001</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>aa9bf56000000255</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>00000100403c0000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>40c48c6880000220</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>00000100406ac000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>406c8d3080001a39</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>80bbc31800000001</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>aa9c51d000000255</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>80bbc31800000001</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>aa9cb17000000255</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+       </node>
+       <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageLevel</data>
+        <node f="40"><name></name></node></node>
+      </node>
+      <node f="42" dt="7"><name></name><data/>
+       <node f="40"><name></name></node>
+       <node f="42" dt="1"><name>loc</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>size</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+       <node f="42"><name>slots</name>
+        <node f="40"><name></name></node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>80bbc31800000001</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>aa996c8000000255</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>0000000000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>ffffffffffffffff</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>c11c010000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>403d8d0180002100</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>80bbc31800000001</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>aa9ed65000000255</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>c086010041ad3438</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>40248d0880002200</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+       </node>
+       <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageLevel</data>
+        <node f="40"><name></name></node></node>
+      </node>
+      <node f="42" dt="7"><name></name><data/>
+       <node f="40"><name></name></node>
+       <node f="42" dt="1"><name>loc</name><data>6666666640066666</data></node>
+       <node f="42" dt="1"><name>size</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+       <node f="42"><name>slots</name>
+        <node f="40"><name></name></node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>0000000000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>0000000000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+       </node>
+       <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageLevel</data>
+        <node f="40"><name></name></node></node>
+      </node>
+      <node f="42" dt="7"><name></name><data/>
+       <node f="40"><name></name></node>
+       <node f="42" dt="1"><name>loc</name><data>cccccccc4010cccc</data></node>
+       <node f="42" dt="1"><name>size</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+       <node f="42"><name>slots</name>
+        <node f="40"><name></name></node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>ffffffffffffffff</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>000001004064a000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>40ad8cf180001124</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>80bbc31800000001</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>aa9f739000000255</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>c149010000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>40548cf880001200</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>0000000040588000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>c108620000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>ffffffffffffffff</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>41b29f0000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+       </node>
+       <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageLevel</data>
+        <node f="40"><name></name></node></node>
+      </node>
+      <node f="42" dt="7"><name></name><data/>
+       <node f="40"><name></name></node>
+       <node f="42" dt="1"><name>loc</name><data>6666666640166666</data></node>
+       <node f="42" dt="1"><name>size</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+       <node f="42"><name>slots</name>
+        <node f="40"><name></name></node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>c086960000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>ffffffffffffffff</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>c086010041ad343a</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>41ca8d5280002800</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>ffffffffffffffff</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>0000000000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>c12b010000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>41fc8d4080002a00</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>80bbc31800000001</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>aa99f37000000255</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>80bbc31800000001</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>aa99a4d000000255</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+       </node>
+       <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageLevel</data>
+        <node f="40"><name></name></node></node>
+      </node>
+      <node f="42" dt="7"><name></name><data/>
+       <node f="40"><name></name></node>
+       <node f="42" dt="1"><name>loc</name><data>00000000401c0000</data></node>
+       <node f="42" dt="1"><name>size</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+       <node f="42"><name>slots</name>
+        <node f="40"><name></name></node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>ffffffffffffffff</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>0000010000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>418d8d9180003100</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>80bbc31800000001</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>aa9c52e000000255</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0000010000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>41b48d9880003200</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>ffffffffffffffff</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>0000010000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>415a8de280003800</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>ffffffffffffffff</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>0000000000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+       </node>
+       <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageLevel</data>
+        <node f="40"><name></name></node></node>
+      </node>
+     </node>
+     <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageBay</data>
+      <node f="40"><name></name></node>
+      <node f="42" dt="1"><name>numItems</name><data>0000000000000000</data></node>
+     </node>
+    </node>
+    <node f="42" dt="7"><name></name><data/>
+     <node f="40"><name></name></node>
+     <node f="42" dt="1"><name>loc</name><data>00000000402e0000</data></node>
+     <node f="42" dt="1"><name>size</name><data>0000000040040000</data></node>
+     <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+     <node f="42"><name>levels</name>
+      <node f="40"><name></name></node>
+      <node f="42" dt="7"><name></name><data/>
+       <node f="40"><name></name></node>
+       <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+       <node f="42" dt="1"><name>size</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+       <node f="42"><name>slots</name>
+        <node f="40"><name></name></node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>0000010000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>414c8dd080003a00</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>80bbc31800000001</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>aa9c9d4000000255</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>80bbc31800000001</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>aa996a6000000255</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>80bbc31800000001</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>aa9f849000000255</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>0000000000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+       </node>
+       <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageLevel</data>
+        <node f="40"><name></name></node></node>
+      </node>
+      <node f="42" dt="7"><name></name><data/>
+       <node f="40"><name></name></node>
+       <node f="42" dt="1"><name>loc</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>size</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+       <node f="42"><name>slots</name>
+        <node f="40"><name></name></node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>0000000000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>80bbc31800000001</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>aa99310000000255</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>0000000000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+       </node>
+       <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageLevel</data>
+        <node f="40"><name></name></node></node>
+      </node>
+      <node f="42" dt="7"><name></name><data/>
+       <node f="40"><name></name></node>
+       <node f="42" dt="1"><name>loc</name><data>6666666640066666</data></node>
+       <node f="42" dt="1"><name>size</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+       <node f="42"><name>slots</name>
+        <node f="40"><name></name></node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>00000000407d6000</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>0000000000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>80bbc31800000001</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>aa9990a000000255</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>0000000000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+       </node>
+       <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageLevel</data>
+        <node f="40"><name></name></node></node>
+      </node>
+      <node f="42" dt="7"><name></name><data/>
+       <node f="40"><name></name></node>
+       <node f="42" dt="1"><name>loc</name><data>cccccccc4010cccc</data></node>
+       <node f="42" dt="1"><name>size</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+       <node f="42"><name>slots</name>
+        <node f="40"><name></name></node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>ffffffffffffffff</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>0000000000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>00000000404a0000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>c140240000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>c0963d0100000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+       </node>
+       <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageLevel</data>
+        <node f="40"><name></name></node></node>
+      </node>
+      <node f="42" dt="7"><name></name><data/>
+       <node f="40"><name></name></node>
+       <node f="42" dt="1"><name>loc</name><data>6666666640166666</data></node>
+       <node f="42" dt="1"><name>size</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+       <node f="42"><name>slots</name>
+        <node f="40"><name></name></node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>c11c780000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>ffffffffffffffff</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>c11c010000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>407a8cc280001800</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>ffffffffffffffff</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>0000000000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>c086967141ad3438</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>0000000000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+       </node>
+       <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageLevel</data>
+        <node f="40"><name></name></node></node>
+      </node>
+      <node f="42" dt="7"><name></name><data/>
+       <node f="40"><name></name></node>
+       <node f="42" dt="1"><name>loc</name><data>00000000401c0000</data></node>
+       <node f="42" dt="1"><name>size</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+       <node f="42"><name>slots</name>
+        <node f="40"><name></name></node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>ffffffffffffffff</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>0000000000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>ffffffffffffffff</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>0000010000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>411d8a2180004100</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>80bbc31800000001</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>aa992dd000000255</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0000010000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>41048a2880004200</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+       </node>
+       <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageLevel</data>
+        <node f="40"><name></name></node></node>
+      </node>
+     </node>
+     <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageBay</data>
+      <node f="40"><name></name></node>
+      <node f="42" dt="1"><name>numItems</name><data>0000000000000000</data></node>
+     </node>
+    </node>
+    <node f="42" dt="7"><name></name><data/>
+     <node f="40"><name></name></node>
+     <node f="42" dt="1"><name>loc</name><data>0000000040318000</data></node>
+     <node f="42" dt="1"><name>size</name><data>0000000040040000</data></node>
+     <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+     <node f="42"><name>levels</name>
+      <node f="40"><name></name></node>
+      <node f="42" dt="7"><name></name><data/>
+       <node f="40"><name></name></node>
+       <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+       <node f="42" dt="1"><name>size</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+       <node f="42"><name>slots</name>
+        <node f="40"><name></name></node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>c11c78d700000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>c086960000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>ffffffffffffffff</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>0000000000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>ffffffffffffffff</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>00000100404f8000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>40ea8cb2800008fc</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>ffffffffffffffff</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>0000000000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+       </node>
+       <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageLevel</data>
+        <node f="40"><name></name></node></node>
+      </node>
+      <node f="42" dt="7"><name></name><data/>
+       <node f="40"><name></name></node>
+       <node f="42" dt="1"><name>loc</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>size</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+       <node f="42"><name>slots</name>
+        <node f="40"><name></name></node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>41b20100424acf04</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>409c8ca080000a00</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>80bbc31800000001</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>aa9c4ea000000255</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>80bbc31800000001</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>aa9c253000000255</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>c108626d00000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>0000000000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+       </node>
+       <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageLevel</data>
+        <node f="40"><name></name></node></node>
+      </node>
+      <node f="42" dt="7"><name></name><data/>
+       <node f="40"><name></name></node>
+       <node f="42" dt="1"><name>loc</name><data>6666666640066666</data></node>
+       <node f="42" dt="1"><name>size</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+       <node f="42"><name>slots</name>
+        <node f="40"><name></name></node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>80bbc31800000001</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>aa9c363000000255</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>0000000000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>c086966341ad343a</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>0000000040791000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+       </node>
+       <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageLevel</data>
+        <node f="40"><name></name></node></node>
+      </node>
+      <node f="42" dt="7"><name></name><data/>
+       <node f="40"><name></name></node>
+       <node f="42" dt="1"><name>loc</name><data>cccccccc4010cccc</data></node>
+       <node f="42" dt="1"><name>size</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+       <node f="42"><name>slots</name>
+        <node f="40"><name></name></node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>80bbc31800000001</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>aaada30000000255</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>0000000000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>3e42a24abd9dec66</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>3f7a820000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>3f7a82cbbca31f50</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+       </node>
+       <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageLevel</data>
+        <node f="40"><name></name></node></node>
+      </node>
+      <node f="42" dt="7"><name></name><data/>
+       <node f="40"><name></name></node>
+       <node f="42" dt="1"><name>loc</name><data>6666666640166666</data></node>
+       <node f="42" dt="1"><name>size</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+       <node f="42"><name>slots</name>
+        <node f="40"><name></name></node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>ffffffffffffffff</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>3f7801003dd34f95</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>4707493a80000118</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>80bbc31800000001</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>aaa4efe000000255</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>00000100403c0000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>471e492180000289</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>00000100406ac000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>47b6498980001a5c</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>80bbc31800000001</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>aaadaeb000000255</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>80bbc31800000001</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>aaad546000000255</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+       </node>
+       <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageLevel</data>
+        <node f="40"><name></name></node></node>
+      </node>
+      <node f="42" dt="7"><name></name><data/>
+       <node f="40"><name></name></node>
+       <node f="42" dt="1"><name>loc</name><data>00000000401c0000</data></node>
+       <node f="42" dt="1"><name>size</name><data>666666663ff66666</data></node>
+       <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+       <node f="42"><name>slots</name>
+        <node f="40"><name></name></node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>80bbc31800000001</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>aaa4a47000000255</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>0000000000000000</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+        <node f="42" dt="7"><name></name><data/>
+         <node f="40"><name></name></node>
+         <node f="42" dt="1"><name>loc</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>size</name><data>000000003ff40000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>lowerPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.x</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.y</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>upperPadding.z</name><data>0000000000000000</data></node>
+         <node f="42" dt="1"><name>isStorable</name><data>000000003ff00000</data></node>
+         <node f="42"><name>slotItems</name></node>
+         <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageSlot</data>
+          <node f="40"><name></name></node>
+          <node f="42" dt="1"><name>stackingMarker.x</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMarker.z</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.x</name><data>bee25c213ee28a5c</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.y</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>stackingMaxSizeMarker.z</name><data>3e85500000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitTime</name><data>0000000000000000</data></node>
+          <node f="42" dt="1"><name>lastItemExitYSize</name><data>bf2e6aa03f38e336</data></node>
+          <node f="42" dt="3"><name>pushBackItem</name><data><coupling>null</coupling></data></node>
+          <node f="42" dt="1"><name>systemAllSlotsIndex</name><data>0000000000000000</data></node>
+         </node>
+        </node>
+       </node>
+       <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageLevel</data>
+        <node f="40"><name></name></node></node>
+      </node>
+     </node>
+     <node f="42" dt="2"><name>sdt::attributetree</name><data>StorageBay</data>
+      <node f="40"><name></name></node>
+      <node f="42" dt="1"><name>numItems</name><data>0000000000000000</data></node>
+     </node>
+    </node>
+   </node>
+   <node f="8000000442" dt="2"><name>slotAssignment</name><data>Storage.Object current = ownerobject(c);
+Object item = param(1);
+Storage.Item storageItem = Storage.Item(item);
+/***popup:SlotByCondition*/
+/**First Slot with Space*/
+for (int i = 1; i &lt;= current.bays.length; i++) {
+	Storage.Bay bay = current.bays[i];
+	for (int j = 1; j &lt;= bay.levels.length; j++) {
+		Storage.Level level = bay.levels[j];
+		for (int k = 1; k &lt;= level.slots.length; k++) {
+			Storage.Slot slot = level.slots[k];
+			int mustHaveSpace = /**\r\nMust Have Space: *//***tag:mustHaveSpace*//**/1/**/;
+			if (mustHaveSpace &amp;&amp; !slot.hasSpace(item))
+				continue;
+			int condition = /**\r\nCondition: *//***tag:condition*//**/true/**/;
+			if (condition) {
+				storageItem.assignedSlot = slot;
+				return 0;
+			}
+		}
+	}
+}
+</data></node>
+   <node f="42" dt="1"><name>enableFRLogic</name><data>0000000000000000</data></node>
+   <node f="42" dt="1"><name>minimumstaytime</name><data>0000000000000000</data></node>
+   <node f="42" dt="2"><name>entrytrigger</name><data>Object item = param(1);
+Object current = ownerobject(c);
+int port = param(2);
+int bay = param(3);
+int level = param(4);
+
+</data>
+    <node f="40"><name></name></node></node>
+   <node f="42" dt="1"><name>maxcontent</name><data>0000000041cdcd65</data></node>
+   <node f="42" dt="1"><name>rackdrawmode</name><data>0000000040140000</data></node>
+   <node f="42" dt="1"><name>markreadytogo</name><data>0000000000000000</data></node>
+   <node f="42" dt="1"><name>opacity</name><data>000000003ff00000</data></node>
+   <node f="42" dt="1"><name>system</name><data>0000000000000000</data>
+    <node f="40"><name></name></node>
+    <node f="10000042" dt="3"><name></name><data><coupling>/Tools/StorageSystem&gt;variables/storageObjects/_3</coupling></data></node>
+   </node>
+   <node f="42" dt="1"><name>startBay</name><data>000000003ff00000</data></node>
+   <node f="42" dt="1"><name>bayStride</name><data>000000003ff00000</data></node>
+   <node f="42" dt="1"><name>bayProgression</name><data>000000003ff00000</data></node>
+   <node f="42" dt="1"><name>startLevel</name><data>000000003ff00000</data></node>
+   <node f="42" dt="1"><name>levelStride</name><data>000000003ff00000</data></node>
+   <node f="42" dt="1"><name>levelProgression</name><data>000000003ff00000</data></node>
+   <node f="42" dt="1"><name>startSlot</name><data>000000003ff00000</data></node>
+   <node f="42" dt="1"><name>slotStride</name><data>000000003ff00000</data></node>
+   <node f="42" dt="1"><name>slotProgression</name><data>000000003ff00000</data></node>
+   <node f="42" dt="1"><name>stackingAxis1</name><data>000000003ff00000</data></node>
+   <node f="42" dt="1"><name>stackingAxis2</name><data>0000000040080000</data></node>
+   <node f="42" dt="1"><name>stackingAxis3</name><data>0000000040140000</data></node>
+   <node f="42" dt="1"><name>pull</name><data>000000003ff00000</data></node>
+   <node f="8000000442" dt="2"><name>pullrequirement</name><data>Storage.Object current = ownerobject(c);
+Object item = param(1);
+int port =  param(2);
+int isOnExitEvent = param(3);
+
+/**Pull Items Successfully Assigned to Slots*/
+if (!isOnExitEvent) {
+	if (current.assignSlot(item) != 0) {
+		return 1;
+	} else {
+		treenode exitListener = c.subnodes["exitListener"];
+		if (!exitListener) {
+			exitListener = c.subnodes.assert("exitListener");
+			switch_destroyonreset(exitListener, 1);
+			exitListener.value = eventlisten(current, "OnExit", c, 0, item, port, 1);
+		}
+	}
+} else {
+	if (isOnExitEvent == 1) {
+		delayednodefunction(c, 0, item, port, 2);
+	} else {
+		if (inputopen(current))
+			openinput(current);
+	}
+}
+return 0;
+</data></node>
+   <node f="42" dt="1"><name>nrreleased</name><data>0000000000000000</data></node>
+   <node f="8000000442" dt="2"><name>sendtoport</name><data>Object item = param(1);
+Object current = ownerobject(c);
+/**First available*/
+
+return 0 ;</data></node>
+   <node f="8000000442" dt="2"><name>receivefromport</name><data>Object current = ownerobject(c);
+/**Any Port*/
+return 0;
+</data></node>
+   <node f="42" dt="1"><name>usetransport</name><data>0000000000000000</data>
+    <node f="40"><name></name></node></node>
+   <node f="42" dt="1"><name>transportpriority</name><data>0000000000000000</data></node>
+   <node f="42" dt="1"><name>preempttransport</name><data>0000000000000000</data></node>
+   <node f="442" dt="2"><name>transportdispatcher</name><data>Object current = ownerobject(c);
+Object item = param(1);
+int port = param(2);
+Object destination = param(3);
+double priority = param(4);
+int preempt = param(5);
+
+/***popup:CenterObject*/
+return /**/current.centerObjects[/**/
+	/***tag:portnr*//**/1/**//**/]/**/;
+</data></node>
+   <node f="42" dt="1"><name>nroftransportsout</name><data>0000000000000000</data></node>
+   <node f="42" dt="1"><name>nroftransportsin</name><data>0000000000000000</data></node>
+   <node f="42" dt="1"><name>outwaitinfo</name><data>0000000000000000</data></node>
+   <node f="42" dt="1"><name>sendtocontinuous</name><data>0000000000000000</data></node>
+   <node f="42" dt="1"><name>pullcontinuous</name><data>0000000000000000</data></node>
+   <node f="42" dt="1"><name>lifo</name><data>0000000000000000</data></node>
+   <node f="42"><name>timetables</name></node>
+   <node f="42"><name>networknodes</name></node>
+   <node f="42" dt="1"><name>timeoflaststop</name><data>0000000000000000</data></node>
+   <node f="42" dt="1"><name>nrofstops</name><data>0000000000000000</data></node>
+   <node f="42" dt="1"><name>statebeforestop</name><data>0000000000000000</data></node>
+   <node f="42"><name>collisionspheres</name></node>
+   <node f="42"><name>collisionobjects</name></node>
+   <node f="42" dt="1"><name>savedstate</name><data>0000000000000000</data></node>
+   <node f="42" dt="1"><name>resetposition</name><data>0000000000000000</data></node>
+   <node f="42" dt="1"><name>doanimations</name><data>000000003ff00000</data></node>
+   <node f="42" dt="2"><name>zoneID</name><data></data></node>
+   <node f="42" dt="2"><name>aisleID</name><data></data></node>
+   <node f="42" dt="3"><name>visualization</name><data><coupling>/Tools/StorageSystem&gt;variables/visualizations/Rack</coupling></data></node>
+   <node f="42" dt="3"><name>addressScheme</name><data><coupling>null</coupling></data></node>
+  </node>
+  <node f="42"><name>behaviour</name>
+   <node f="40"><name></name></node></node>
+  <node f="42"><name>visual</name>
+   <node f="40"><name></name></node>
+   <node f="42"><name>color</name>
+    <node f="40"><name></name></node>
+    <node f="42" dt="1"><name>red</name><data>000000003fe80000</data></node>
+    <node f="42" dt="1"><name>green</name><data>000000003fe80000</data></node>
+    <node f="42" dt="1"><name>blue</name><data>000000003fe80000</data></node>
+    <node f="42" dt="1"><name>alpha</name><data>000000003ff00000</data></node>
+   </node>
+   <node f="42" dt="2"><name>shape</name><data>***</data></node>
+   <node f="42" dt="1"><name>shapeindex</name><data>0000000000000000</data></node>
+   <node f="42" dt="2"><name>picture</name><data>bitmaps\rackpicturesmall.png</data></node>
+   <node f="42" dt="2"><name>imageobject</name><data>fs3d\Rack\Rack.png</data>
+    <node f="40"><name></name></node>
+    <node f="42" dt="2"><name>platform</name><data>fs3d\Rack\RackPlatform.png</data></node>
+    <node f="42" dt="2"><name>cell</name><data>bitmaps\rackshelf.bmp</data></node>
+   </node>
+   <node f="42" dt="1"><name>imageindexobject</name><data>0000000000000000</data>
+    <node f="40"><name></name></node>
+    <node f="42" dt="1"><name></name><data>0000000040518000</data></node>
+    <node f="42" dt="1"><name></name><data>0000000040530000</data></node>
+   </node>
+   <node f="42" dt="2"><name>imagebase</name><data>***</data></node>
+   <node f="42" dt="1"><name>imageindexbase</name><data>0000000000000000</data></node>
+  </node>
+  <node f="42"><name>spatial</name>
+   <node f="40"><name></name></node>
+   <node f="42" dt="1"><name>spatialsx</name><data>0000000040340000</data></node>
+   <node f="42" dt="1"><name>spatialsy</name><data>000000003ff80000</data></node>
+   <node f="42" dt="1"><name>spatialsz</name><data>cccccccd4020cccc</data>
+    <node f="40"><name></name></node></node>
+   <node f="42" dt="1"><name>centroid</name><data>000000003ff00000</data></node>
+   <node f="42" dt="1"><name>spatialx</name><data>00000000c0240000</data></node>
+   <node f="42" dt="1"><name>spatialy</name><data>e98be5e240444659</data></node>
+   <node f="42" dt="1"><name>spatialz</name><data>0000000000000000</data></node>
+   <node f="42" dt="1"><name>spatialrx</name><data>0000000000000000</data></node>
+   <node f="42" dt="1"><name>spatialry</name><data>0000000000000000</data></node>
+   <node f="42" dt="1"><name>spatialrz</name><data>0000000000000000</data></node>
+  </node>
+  <node f="42"><name>special</name>
+   <node f="40"><name></name></node>
+   <node f="42" dt="2"><name>title</name><data>Rack</data></node>
+   <node f="42" dt="2"><name>description</name><data></data></node>
+   <node f="42" dt="2"><name>guifocusclass</name><data>VIEW:/standardviews/modelingutilities/QuickerProperties</data></node>
+   <node f="42" dt="2"><name>tooltip</name><data>Stores flow items in a vertical rack</data></node>
+  </node>
+  <node f="4000000042" dt="2"><name>windowtitle</name><data>Rack</data>
+   <node f="40"><name></name></node></node>
+  <node f="42"><name>objectinfo</name>
+   <node f="40"><name></name></node>
+   <node f="42" dt="1"><name>CurContent:  0</name><data>0000000000000000</data></node>
+   <node f="42" dt="1"><name>MaxContent: 0</name><data>0000000000000000</data></node>
+   <node f="42" dt="1"><name>AvgContent:  0.0</name><data>0000000000000000</data></node>
+  </node>
+  <node f="42"><name>stats</name>
+   <node f="40"><name></name></node>
+   <node f="42" dt="7"><name>state_current</name><data/>
+    <node f="40"><name></name></node>
+    <node f="42" dt="6"><name>profile</name><data f="1">
+     <fields>
+      <field name="state" bytesize="36" type="259"/>
+      <field name="time" bytesize="8" type="1"/>
+      <field name="active" bytesize="4" type="2"/>
+     </fields>
+     <entry><ed>other</ed><ed>0000000000000000</ed><ed>0</ed></entry>
+     <entry><ed>idle</ed><ed>0000000000000000</ed><ed>0</ed></entry>
+     <entry><ed>processing</ed><ed>0000000000000000</ed><ed>0</ed></entry>
+     <entry><ed>busy</ed><ed>0000000000000000</ed><ed>0</ed></entry>
+     <entry><ed>blocked</ed><ed>0000000000000000</ed><ed>0</ed></entry>
+     <entry><ed>generating</ed><ed>0000000000000000</ed><ed>0</ed></entry>
+     <entry><ed>empty</ed><ed>0000000000000000</ed><ed>0</ed></entry>
+     <entry><ed>collecting</ed><ed>0000000000000000</ed><ed>0</ed></entry>
+     <entry><ed>releasing</ed><ed>0000000000000000</ed><ed>0</ed></entry>
+     <entry><ed>waiting for operator</ed><ed>0000000000000000</ed><ed>0</ed></entry>
+     <entry><ed>waiting for transport</ed><ed>0000000000000000</ed><ed>1</ed></entry></data></node>
+    <node f="42" dt="2"><name>sdt::attributetree</name><data>TrackedVariable</data>
+     <node f="40"><name></name></node>
+     <node f="42" dt="1"><name>type</name><data>0000000040100000</data></node>
+     <node f="42" dt="1"><name>flags</name><data>0000000000000000</data></node>
+     <node f="42" dt="1"><name>curValue</name><data>0000000000000000</data></node>
+     <node f="42" dt="1"><name>startValue</name><data>0000000000000000</data></node>
+    </node>
+   </node>
+   <node f="42" dt="7"><name>stats_input</name><data/>
+    <node f="40"><name></name></node>
+    <node f="42" dt="2"><name>sdt::attributetree</name><data>TrackedVariable</data>
+     <node f="40"><name></name></node>
+     <node f="42" dt="1"><name>type</name><data>0000000040000000</data></node>
+     <node f="42" dt="1"><name>flags</name><data>0000000000000000</data></node>
+     <node f="42" dt="1"><name>curValue</name><data>0000000000000000</data></node>
+     <node f="42" dt="1"><name>startValue</name><data>0000000000000000</data></node>
+    </node>
+   </node>
+   <node f="42" dt="7"><name>stats_output</name><data/>
+    <node f="40"><name></name></node>
+    <node f="42" dt="2"><name>sdt::attributetree</name><data>TrackedVariable</data>
+     <node f="40"><name></name></node>
+     <node f="42" dt="1"><name>type</name><data>0000000040000000</data></node>
+     <node f="42" dt="1"><name>flags</name><data>0000000000000000</data></node>
+     <node f="42" dt="1"><name>curValue</name><data>0000000000000000</data></node>
+     <node f="42" dt="1"><name>startValue</name><data>0000000000000000</data></node>
+    </node>
+   </node>
+   <node f="42" dt="7"><name>stats_content</name><data/>
+    <node f="40"><name></name></node>
+    <node f="42" dt="2"><name>sdt::attributetree</name><data>TrackedVariable</data>
+     <node f="40"><name></name></node>
+     <node f="42" dt="1"><name>type</name><data>000000003ff00000</data></node>
+     <node f="42" dt="1"><name>flags</name><data>0000000000000000</data></node>
+     <node f="42" dt="1"><name>curValue</name><data>0000000000000000</data></node>
+     <node f="42" dt="1"><name>startValue</name><data>0000000000000000</data></node>
+    </node>
+   </node>
+   <node f="42" dt="7"><name>stats_staytime</name><data/>
+    <node f="40"><name></name></node>
+    <node f="42" dt="2"><name>sdt::attributetree</name><data>TrackedVariable</data>
+     <node f="40"><name></name></node>
+     <node f="42" dt="1"><name>type</name><data>0000000040080000</data></node>
+     <node f="42" dt="1"><name>flags</name><data>0000000000000000</data></node>
+     <node f="42" dt="1"><name>curValue</name><data>0000000000000000</data></node>
+     <node f="42" dt="1"><name>startValue</name><data>0000000000000000</data></node>
+    </node>
+   </node>
+   <node f="42" dt="1"><name>stats_creationtime</name><data>0000000000000000</data></node>
+   <node f="42" dt="1"><name>stats_lastmovetime</name><data>0000000000000000</data></node>
+   <node f="42" dt="1"><name>virtualizedItemMeshData</name><data>0000000000000000</data></node>
+  </node>
+  <node f="42"><name>labels</name>
+   <node f="40"><name></name></node></node>
+  <node f="42"><name>connections</name>
+   <node f="40"><name></name></node>
+   <node f="42"><name>connectionsin</name>
+    <node f="40"><name></name></node></node>
+   <node f="42"><name>connectionsout</name>
+    <node f="40"><name></name></node></node>
+   <node f="42"><name>connectionscenter</name>
+    <node f="40"><name></name></node></node>
   </node>
   <node f="42"><name>events</name>
    <node f="40"><name></name></node></node>
